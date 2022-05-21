@@ -72,7 +72,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ---
 
-## How-to Examples/Vignettes
+## How-to Examples
 
 - [ ] Is easy to find: clearly visible on the main page
 - [ ] Demonstrates examples that are the most common use case(s)
