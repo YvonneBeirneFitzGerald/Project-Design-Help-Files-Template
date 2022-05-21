@@ -98,7 +98,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 - [ ] Options and defaults are explained and linked to more information where appropriate
 
 
-### Command line tool items
+#### Command line tool items
 
   - [ ] All functions are described
   - [ ] All arguments of those functions are described
@@ -109,7 +109,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 
 
-### GUI tool items
+#### GUI tool items
 
   - [ ] All buttons are described
   - [ ] All parameters are described and defaults explained
