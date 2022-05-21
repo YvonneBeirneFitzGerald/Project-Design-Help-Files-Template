@@ -134,14 +134,16 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 ## Overall items
 
 - [ ] No broken links.
+	- [ ] Process for checking for broken links now and in future in place: ______________
   - [ ] [Implement a way to get an alert about broken links.](https://jhudatascience.org/Documentation_and_Usability/how-to-keep-your-documentation-up-to-date.html#make-sure-links-work) 
-- [ ] [The documentation has been kept up to date with any updates to the code.](https://jhudatascience.org/Documentation_and_Usability/how-to-keep-your-documentation-up-to-date.html#how-to-keep-your-documentation-up-to-date)
-- [ ] [Visuals are used to clearly communicate complicated concepts where possible.](https://jhudatascience.org/Documentation_and_Usability/lessons-we-should-borrow-from-user-designers.html#general-principles-about-user-friendliness)
-- [ ] [Reading patterns are utilized where possible.](https://jhudatascience.org/Documentation_and_Usability/lessons-we-should-borrow-from-user-designers.html#general-principles-about-user-friendliness)
+- [ ] Plan for keeping documentation up to date
+- [ ] Location where documentation is stored:______________
+	- [ ] [The documentation has been kept up to date with any updates to the code.](https://jhudatascience.org/Documentation_and_Usability/how-to-keep-your-documentation-up-to-date.html#how-to-keep-your-documentation-up-to-date)
+- [ ] Use Z or F Patterning for better User Experience
 - [ ] Jargon is avoided!
 - [ ] Confirm inclusivity in selections
 - [ ] Confirm consitently using sytle guidelines
-- [ ] Accessiblity Usage added
+- [ ] Accessiblity Usage Implemented
 
 ---
 
@@ -150,6 +152,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 - 2022-05-21-001 
 	- [Inital Checklist]  (https://github.com/jhudsl/template-documentation) based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins 	
 	- YMBF added additional items and customized to become my standard template for creating Tool/App Documentation
+	- YMBF as class continues will updated
 
 ----
 Contact
