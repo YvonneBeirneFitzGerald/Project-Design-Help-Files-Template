@@ -1,5 +1,5 @@
 
-# Checklist - Creating Software Documentation
+# Checklist - Software Documentation Template 
 
 Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
@@ -10,21 +10,21 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 ## Understanding Your User Community
 
 - [ ] Write down what you know (or think you know) 
-- [ ] Identify any knowledge gaps you might have about your user community.
-- [ ] Identify who is your user community?
-- [ ] Define what need the user has which is addressed by tool/app
-- [ ] Define what skills it assumes your user has?
+- [ ] Identify any knowledge gaps you might have about your user community
+- [ ] Identify who is your user community
+- [ ] Define what need the user has which is addressed by Tool/App
+- [ ] Define what skills it assumes your user has
 
 ---
 
 ## The Why
 
-- [ ] The “why” of this tool is obvious on the main page
-- [ ] The end user will be able to know from the Why if they need/ want your tool
-- [ ] Says what need the tool/app fulfill
-- [ ] Indicates what problem tool/app solves.
-- [ ] Tagline of tool/app purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
-- [ ] Summary of tool/app purpose brief
+- [ ] The “why” of this Tool/App is obvious on the main page
+- [ ] The end user will be able to know from the Why if they need/ want your Tool/App
+- [ ] Says what need the Tool/App fulfills
+- [ ] Indicates what problem Tool/App solves
+- [ ] Tagline of Tool/App purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
+- [ ] Summary of Tool/App purpose brief
 - [ ] Avoid jargon
 - [ ] Example of a good ones 
 			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
@@ -55,11 +55,11 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ## Getting Started Quick Guide
 
-- [ ] Is easy to find: clearly visible on the main page.
-- [ ] Provides the user with the introductory concepts of the tool.
-- [ ] Has clear steps for installation.
-- [ ] Dependencies are made clear.
-- [ ] Directs the user to the How-to Examples section.
+- [ ] Is easy to find: clearly visible on the main page
+- [ ] Provides the user with the introductory concepts of the Tool/App
+- [ ] Has clear steps for installation
+- [ ] Dependencies are made clear
+- [ ] Directs the user to the How-to Examples section
 - [ ] Added images and icons so those who familiar with a different language can still follow
 - [ ] Added videos 
 - [ ] Code is presentated so that it can be copy and pasted
@@ -67,22 +67,22 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 - [ ] List of system requirements listed 
 - [ ] Tells How to
 	[ ] Install Tools and Dependencies
-	[ ] Run basic analysis with the tool
+	[ ] Run basic analysis with the Tool/App
 	[ ] Obtain quick result
 
 ---
 
 ## How-to Examples/Vignettes
 
-- [ ] Is easy to find: clearly visible on the main page.
-- [ ] Demonstrates examples that are the most common use case(s).
-- [ ] Prerequisite knowledge needed is described.
-  - [ ] Links to helpful background knowledge resources are included.
-- [ ] Paste-able or directly runnable code is given and can be run as-is.
-- [ ] Demonstrates a _reproducible_ example.
-  - [ ] An example dataset needed is provided and introduced.
-  - [ ] No additional packages and software are required beyond what is installed in the `Getting Started`.
-- [ ] Demonstrates step-by-step the most common users for your tool/app
+- [ ] Is easy to find: clearly visible on the main page
+- [ ] Demonstrates examples that are the most common use case(s)
+- [ ] Prerequisite knowledge needed is described
+  - [ ] Links to helpful background knowledge resources are included
+- [ ] Paste-able or directly runnable code is given and can be run as-is
+- [ ] Demonstrates a _reproducible_ example
+  - [ ] An example dataset needed is provided and introduced
+  - [ ] No additional packages and software are required beyond what is installed in the `Getting Started`
+- [ ] Demonstrates step-by-step the most common users for your Tool/App
 - [ ] Example code write with teaching in mind
 - [ ] Shows what additional analysis might look like
 
@@ -91,30 +91,30 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ## Reference Guides
 
-- [ ] Is easy to find: clearly visible on the main page.
-- [ ] Is searchable or at least visually easily able to be scanned.
-- [ ] All items are described in clear language.
+- [ ] Is easy to find: clearly visible on the main page
+- [ ] Is searchable or at least visually easily able to be scanned
+- [ ] All items are described in clear language
 - [ ] Provide items in a clear, no-jargon language
 - [ ] Options and defaults are explained and linked to more information where appropriate
 
 
 ### Command line tool items
 
-  - [ ] All functions are described.
-  - [ ] All arguments of those functions are described.
-  - [ ] All parameters are described and defaults explained.
-  - [ ] Any additional datasets or items included in the package are documented.
-  - [ ] Any input file formats are described (example file format included is ideal).
-  - [ ] Any output file formats are described.
+  - [ ] All functions are described
+  - [ ] All arguments of those functions are described
+  - [ ] All parameters are described and defaults explained
+  - [ ] Any additional datasets or items included in the package are documented
+  - [ ] Any input file formats are described (example file format included is ideal)
+  - [ ] Any output file formats are described
 
 
 
 ### GUI tool items
 
-  - [ ] All buttons are described.
-  - [ ] All parameters are described and defaults explained.
-  - [ ] Any input file formats are described (example file format included is ideal).
-  - [ ] Any output file formats are described.
+  - [ ] All buttons are described
+  - [ ] All parameters are described and defaults explained
+  - [ ] Any input file formats are described (example file format included is ideal)
+  - [ ] Any output file formats are described
 
 ---
 
@@ -126,7 +126,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ## Feedback
 
-- [ ] The user is given a clear avenue of where to direct questions or report bugs.
+- [ ] The user is given a clear avenue of where to direct questions or report bugs
 - [ ] Mechanism is in place to allow for you to respond to feedback
 
 ---
