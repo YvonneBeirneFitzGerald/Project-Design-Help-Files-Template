@@ -1,10 +1,13 @@
 
-
 # Checklist - Creating Software Documentation
 
-This checklist is meant to help you evaluate and create documentation for your tool.
-You can also use a [template documentation repository](https://github.com/jhudsl/template-documentation) to help you set up your own documentation website. 
-Each major section has links to the chapter that discusses the section in-depth.
+Basic Box Solid
+
+<h1 style="background-color:Tomato; color:white" ><center>Basic Box Solid</center></h1>
+
+Basic Box Outline
+<h1 style="border:2px solid Violet;">Basic Box Outline</h1>
+
 
 - [ ] The “why” of this tool is obvious on the [main page](https://jhudatascience.org/Documentation_and_Usability/what-does-good-documentation-look-like.html#the-why).
 
@@ -64,3 +67,8 @@ Each major section has links to the chapter that discusses the section in-depth.
 
 
 ## Versions
+
+
+- This checklist is meant to help you evaluate and create documentation for your tool.
+You can also use a [template documentation repository](https://github.com/jhudsl/template-documentation) to help you set up your own documentation website. 
+Each major section has links to the chapter that discusses the section in-depth.
