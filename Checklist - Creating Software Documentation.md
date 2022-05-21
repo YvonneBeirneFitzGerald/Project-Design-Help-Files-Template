@@ -1,6 +1,8 @@
 
 # Checklist - Creating Software Documentation
+
 Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
+
 21 May 2022
 
 ---
@@ -70,8 +72,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ---
 
-## [How-to Examples/Vignettes](https://jhudatascience.org/Documentation_and_Usability/creating-helpful-how-to-examples.html)
-[Download a template document for a How-to Example](https://raw.githubusercontent.com/jhudsl/template-documentation/master/docs/how_to_examples.md)
+## How-to Examples/Vignettes
 
 - [ ] Is easy to find: clearly visible on the main page.
 - [ ] Demonstrates examples that are the most common use case(s).
@@ -81,37 +82,21 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 - [ ] Demonstrates a _reproducible_ example.
   - [ ] An example dataset needed is provided and introduced.
   - [ ] No additional packages and software are required beyond what is installed in the `Getting Started`.
-  
-  
-  
-  ##### How-to examples
-- Like a cookbook of recipes 
-- Demonstrates step-by-step the most common users for your tool
-- Every step is clearly explained and provided
-- If data is needed to run the example it is also provided
-- Example code write with teaching in mind
-- Provide next-level comfort with your tool
-- Shows what additional analysis might look like
-  
+- [ ] Demonstrates step-by-step the most common users for your tool/app
+- [ ] Example code write with teaching in mind
+- [ ] Shows what additional analysis might look like
+
 
 ---
 
 ## Reference Guides
-[Download a template document for a Reference Guide](https://raw.githubusercontent.com/jhudsl/template-documentation/master/docs/reference_guide_template.md)
 
 - [ ] Is easy to find: clearly visible on the main page.
 - [ ] Is searchable or at least visually easily able to be scanned.
-- [ ] All items are described in clear language:
+- [ ] All items are described in clear language.
+- [ ] Provide items in a clear, no-jargon language
+- [ ] Options and defaults are explained and linked to more information where appropriate
 
-##### Reference guides
-- Allows users to look up items as they have questions
-- Users who use this tool have more time invested in the tool and have typically done the getting started and how-to examples
-- Provide items in a clear, no-jargon language
-- Should be searchable or easily scanned
-- Options and defaults are explained and linked to more information where appropriate
-
-
----
 
 ### Command line tool items
 
@@ -122,12 +107,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
   - [ ] Any input file formats are described (example file format included is ideal).
   - [ ] Any output file formats are described.
 
-##### Code comments
-- "Comments in your source code are also a part of the documentation" process
-- Remember comments in your code is not just for users, and collaborators but for your future you
 
-
----
 
 ### GUI tool items
 
@@ -138,18 +118,16 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ---
 
-## [Code documentation](https://jhudatascience.org/Documentation_and_Usability/creating-clarifying-code-comments.html)
+## Code documentation
 
 - [ ] The code has a healthy amount of comments -- particularly in places where the code is “quirky.”
 
 ---
 
-## [Feedback](https://jhudatascience.org/Documentation_and_Usability/obtaining-user-feedback.html)
+## Feedback
 
 - [ ] The user is given a clear avenue of where to direct questions or report bugs.
-##### User feedback mechanism
-- Documentation should allow users to report bugs and feedback
-- You should respond to this feedback regularly
+- [ ] Mechanism is in place to allow for you to respond to feedback
 
 ---
 
@@ -163,12 +141,19 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 - [ ] Jargon is avoided!
 - [ ] Confirm inclusivity in selections
 - [ ] Confirm consitently using sytle guidelines
+- [ ] Accessiblity Usage added
 
 ---
 
-## Versions
+## Versions History
 
+- 2022-05-21-001 
+	- [Inital Checklist]  (https://github.com/jhudsl/template-documentation) based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins 	
+	- YMBF added additional items and customized to become my standard template for creating Tool/App Documentation
 
-- This checklist is meant to help you evaluate and create documentation for your tool.
-You can also use a [template documentation repository](https://github.com/jhudsl/template-documentation) to help you set up your own documentation website. 
-Each major section has links to the chapter that discusses the section in-depth.
+----
+Contact
+
+Yvonne M. Beine FitzGerald
+theYvonne.com
+hi[@]theyvonne.com
