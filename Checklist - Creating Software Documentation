@@ -1,23 +1,69 @@
 
 # Checklist - Creating Software Documentation
-
-Basic Box Solid
-
-<h1 style="background-color:Tomato; color:white" ><center>Basic Box Solid</center></h1>
-
-Basic Box Outline
-<h1 style="border:2px solid Violet;">Basic Box Outline</h1>
+Owner: Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
+Date:  22 May 2022
 
 
-- [ ] The “why” of this tool is obvious on the [main page](https://jhudatascience.org/Documentation_and_Usability/what-does-good-documentation-look-like.html#the-why).
+## Understanding Your User Community
+- [ ] Write down what you know (or think you know) 
+- [ ] Identify any knowledge gaps you might have about your user community.
+- [ ] Identify who is your user community?
+- [ ] Define what need the user has which is addressed by tool/app
+- [ ] Define what skills it assumes your user has?
 
-## [Getting Started](https://jhudatascience.org/Documentation_and_Usability/creating-a-smooth-getting-started-section.html)
-[Download a template document for a Getting Started section](https://raw.githubusercontent.com/jhudsl/template-documentation/master/docs/getting_started_template.md)
+
+## The Why
+- [ ] The “why” of this tool is obvious on the main page
+- [ ] The end user will be able to know from the Why if they need/ want your tool
+- [ ] Says what need the tool/app fulfill
+- [ ] Indicates what problem tool/app solves.
+- [ ] Tagline of tool/app purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
+- [ ] Summary of tool/app purpose brief
+- [ ] Avoid jargon
+- [ ] Example of a good ones 
+			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
+			- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.
+
+
+## Style Guide
+- [ ] Define Font 
+  - Font Headers:
+  - Font Text:
+  - Font Accent:
+- [ ] Define Colors
+  - Color Headers:
+  - Color Text:
+  - Color Accent
+  - Color Background:
+- [ ] Define Linespacing and Letterspacing
+  - Linespacing:
+  - Lettterspacing:
+- [ ] Define Icons
+- [ ] Define Images
+- [ ] Confirm inclusivity in selections
+- [ ] Confirm consitently using sytle guidelines
+
+## Getting Started Quick Guide
+
 - [ ] Is easy to find: clearly visible on the main page.
 - [ ] Provides the user with the introductory concepts of the tool.
 - [ ] Has clear steps for installation.
 - [ ] Dependencies are made clear.
 - [ ] Directs the user to the How-to Examples section.
+- [ ] Added images and icons so those who familiar with a different language can still follow
+- [ ] Added videos 
+- [ ] Code is presentated so that it can be copy and pasted
+
+
+- Introduces new users to your tool
+- What is needed to get started
+- i.e. quickest way to reach the output
+- Must be simple and easy to follow
+- Tells How to
+	- Install Tools and Dependencies
+	- Run basic analysis with the tool
+	- Obtain quick result
+
 
 ## [How-to Examples/Vignettes](https://jhudatascience.org/Documentation_and_Usability/creating-helpful-how-to-examples.html)
 [Download a template document for a How-to Example](https://raw.githubusercontent.com/jhudsl/template-documentation/master/docs/how_to_examples.md)
