@@ -1,18 +1,22 @@
 
 # Checklist - Creating Software Documentation
-Owner: Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
-Date:  22 May 2022
+Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
+21 May 2022
 
+---
 
 ## Understanding Your User Community
+
 - [ ] Write down what you know (or think you know) 
 - [ ] Identify any knowledge gaps you might have about your user community.
 - [ ] Identify who is your user community?
 - [ ] Define what need the user has which is addressed by tool/app
 - [ ] Define what skills it assumes your user has?
 
+---
 
 ## The Why
+
 - [ ] The “why” of this tool is obvious on the main page
 - [ ] The end user will be able to know from the Why if they need/ want your tool
 - [ ] Says what need the tool/app fulfill
@@ -24,8 +28,10 @@ Date:  22 May 2022
 			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
 			- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.
 
+---
 
 ## Style Guide
+
 - [ ] Define Font 
   - Font Headers:
   - Font Text:
@@ -43,6 +49,8 @@ Date:  22 May 2022
 - [ ] Confirm inclusivity in selections
 - [ ] Confirm consitently using sytle guidelines
 
+---
+
 ## Getting Started Quick Guide
 
 - [ ] Is easy to find: clearly visible on the main page.
@@ -53,20 +61,18 @@ Date:  22 May 2022
 - [ ] Added images and icons so those who familiar with a different language can still follow
 - [ ] Added videos 
 - [ ] Code is presentated so that it can be copy and pasted
+- [ ] Shows how to get quick resutls
+- [ ] List of system requirements listed 
+- [ ] Tells How to
+	[ ] Install Tools and Dependencies
+	[ ] Run basic analysis with the tool
+	[ ] Obtain quick result
 
-
-- Introduces new users to your tool
-- What is needed to get started
-- i.e. quickest way to reach the output
-- Must be simple and easy to follow
-- Tells How to
-	- Install Tools and Dependencies
-	- Run basic analysis with the tool
-	- Obtain quick result
-
+---
 
 ## [How-to Examples/Vignettes](https://jhudatascience.org/Documentation_and_Usability/creating-helpful-how-to-examples.html)
 [Download a template document for a How-to Example](https://raw.githubusercontent.com/jhudsl/template-documentation/master/docs/how_to_examples.md)
+
 - [ ] Is easy to find: clearly visible on the main page.
 - [ ] Demonstrates examples that are the most common use case(s).
 - [ ] Prerequisite knowledge needed is described.
@@ -75,14 +81,40 @@ Date:  22 May 2022
 - [ ] Demonstrates a _reproducible_ example.
   - [ ] An example dataset needed is provided and introduced.
   - [ ] No additional packages and software are required beyond what is installed in the `Getting Started`.
+  
+  
+  
+  ##### How-to examples
+- Like a cookbook of recipes 
+- Demonstrates step-by-step the most common users for your tool
+- Every step is clearly explained and provided
+- If data is needed to run the example it is also provided
+- Example code write with teaching in mind
+- Provide next-level comfort with your tool
+- Shows what additional analysis might look like
+  
 
-## [Reference Guides](https://jhudatascience.org/Documentation_and_Usability/creating-handy-reference-guides.html)
+---
+
+## Reference Guides
 [Download a template document for a Reference Guide](https://raw.githubusercontent.com/jhudsl/template-documentation/master/docs/reference_guide_template.md)
+
 - [ ] Is easy to find: clearly visible on the main page.
 - [ ] Is searchable or at least visually easily able to be scanned.
 - [ ] All items are described in clear language:
 
+##### Reference guides
+- Allows users to look up items as they have questions
+- Users who use this tool have more time invested in the tool and have typically done the getting started and how-to examples
+- Provide items in a clear, no-jargon language
+- Should be searchable or easily scanned
+- Options and defaults are explained and linked to more information where appropriate
+
+
+---
+
 ### Command line tool items
+
   - [ ] All functions are described.
   - [ ] All arguments of those functions are described.
   - [ ] All parameters are described and defaults explained.
@@ -90,27 +122,49 @@ Date:  22 May 2022
   - [ ] Any input file formats are described (example file format included is ideal).
   - [ ] Any output file formats are described.
 
+##### Code comments
+- "Comments in your source code are also a part of the documentation" process
+- Remember comments in your code is not just for users, and collaborators but for your future you
+
+
+---
+
 ### GUI tool items
+
   - [ ] All buttons are described.
   - [ ] All parameters are described and defaults explained.
   - [ ] Any input file formats are described (example file format included is ideal).
   - [ ] Any output file formats are described.
 
+---
+
 ## [Code documentation](https://jhudatascience.org/Documentation_and_Usability/creating-clarifying-code-comments.html)
+
 - [ ] The code has a healthy amount of comments -- particularly in places where the code is “quirky.”
 
+---
+
 ## [Feedback](https://jhudatascience.org/Documentation_and_Usability/obtaining-user-feedback.html)
+
 - [ ] The user is given a clear avenue of where to direct questions or report bugs.
+##### User feedback mechanism
+- Documentation should allow users to report bugs and feedback
+- You should respond to this feedback regularly
+
+---
 
 ## Overall items
+
 - [ ] No broken links.
   - [ ] [Implement a way to get an alert about broken links.](https://jhudatascience.org/Documentation_and_Usability/how-to-keep-your-documentation-up-to-date.html#make-sure-links-work) 
 - [ ] [The documentation has been kept up to date with any updates to the code.](https://jhudatascience.org/Documentation_and_Usability/how-to-keep-your-documentation-up-to-date.html#how-to-keep-your-documentation-up-to-date)
 - [ ] [Visuals are used to clearly communicate complicated concepts where possible.](https://jhudatascience.org/Documentation_and_Usability/lessons-we-should-borrow-from-user-designers.html#general-principles-about-user-friendliness)
 - [ ] [Reading patterns are utilized where possible.](https://jhudatascience.org/Documentation_and_Usability/lessons-we-should-borrow-from-user-designers.html#general-principles-about-user-friendliness)
 - [ ] Jargon is avoided!
+- [ ] Confirm inclusivity in selections
+- [ ] Confirm consitently using sytle guidelines
 
-
+---
 
 ## Versions
 
