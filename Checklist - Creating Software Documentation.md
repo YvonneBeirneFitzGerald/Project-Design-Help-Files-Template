@@ -35,17 +35,17 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 ## Style Guide
 
 - [ ] Define Font 
-  - Font Headers:
-  - Font Text:
-  - Font Accent:
+  - Font Headers: ___________
+  - Font Text: ___________
+  - Font Accent:___________
 - [ ] Define Colors
-  - Color Headers:
-  - Color Text:
-  - Color Accent
-  - Color Background:
+  - Color Headers: ___________
+  - Color Text:___________
+  - Color Accent: ___________
+  - Color Background:___________
 - [ ] Define Linespacing and Letterspacing
-  - Linespacing:
-  - Lettterspacing:
+  - Linespacing: ___________
+  - Lettterspacing: ___________
 - [ ] Define Icons
 - [ ] Define Images
 - [ ] Confirm inclusivity in selections
