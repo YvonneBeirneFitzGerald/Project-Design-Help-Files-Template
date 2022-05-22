@@ -101,7 +101,7 @@ Look at this really cool output result! You can get this for your own data too!
 
 Now that you have the basic concepts down here are more examples of how to run more analyses with {this Tool/App}.
 
-- [How to example](hTemplate%20-%20How%20To.md)
+- [How to example](Template%20-%20How%20To.md)
 
 
 ---
