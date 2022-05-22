@@ -1,4 +1,4 @@
-# Getting Started
+# Getting Started Guide
 
 Yvonne Beirne FitzGerald
 
@@ -13,6 +13,15 @@ _Checklist For This Section:_
 - [ ] Has clear steps for installation.  
 - [ ] Dependencies are made clear.  
 - [ ] Directs the user to the How-to Examples section.
+- [ ] Added images and icons so those who familiar with a different language can still follow
+- [ ] Added videos 
+- [ ] Code is presentated so that it can be copy and pasted
+- [ ] Shows how to get quick resutls
+- [ ] List of system requirements listed 
+- [ ] Tells How to
+	  [ ] Install Tools and Dependencies
+	  [ ] Run basic analysis with the Tool/App
+	  [ ] Obtain quick result
 
 ---
 
@@ -53,6 +62,7 @@ If you did not get {such and such} response you may need to {do this other thing
 [Screenshot of reassurance](**** INSERT LINK HERE ****)
 
 
+
 #### Steps for {some other Operating system}
 
 {Use altered steps from above}.
@@ -90,13 +100,16 @@ Now that you have the basic concepts down here are more examples of how to run m
 
 - [How to example](how_to_examples.md)
 
+
 ---
+
 
 Versions History
 21 May 2022
   - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University) [https://github.com/jhudsl/template-documentation]
   - Added additional items and customized to become my standard template for creating Tool/App Documentation
   - As class continues will updated
+
 
 ---
 Contact
