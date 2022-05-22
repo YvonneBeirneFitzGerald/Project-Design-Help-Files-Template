@@ -2,7 +2,7 @@
 
 ---
 
-## Reference Guide
+_This section's checklist:_  
 
 - [ ] Is easy to find: clearly visible on the main page
 - [ ] Is searchable or at least visually easily able to be scanned
