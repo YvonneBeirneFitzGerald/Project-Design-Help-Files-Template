@@ -149,7 +149,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
 ## Versions History
 
-- 2022-05-21-001 
+- 21 May 2022
 	- [Inital Checklist]  (https://github.com/jhudsl/template-documentation) based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins 	
 	- YMBF added additional items and customized to become my standard template for creating Tool/App Documentation
 	- YMBF as class continues will updated
@@ -158,5 +158,7 @@ Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 Contact
 
 Yvonne M. Beine FitzGerald
+
 theYvonne.com
+
 hi[@]theyvonne.com
