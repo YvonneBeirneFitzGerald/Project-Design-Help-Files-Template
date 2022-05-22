@@ -1,7 +1,7 @@
 <h1 align="center">Checklist - Software Documentation </h1>
 
 -- 
-# TO DO TEMPLATES TO CREATE
+# [ ] TO DO TEMPLATES TO CREATE
 - [ ] UNDERSTANDING COMMUNITY
 - [ ] THE WHY
 - [ ] SYTLE GUIDE
@@ -15,7 +15,7 @@
 
 ---
 
-## Understanding Your User Community
+## [ ] Understanding Your User Community
 
 - [ ] Write down what you know (or think you know) 
 - [ ] Identify any knowledge gaps you might have about your user community
@@ -25,7 +25,7 @@
 
 ---
 
-## The Why
+## [ ] The Why
 
 - [ ] The “why” of this Tool/App is obvious on the main page
 - [ ] The end user will be able to know from the Why if they need/ want your Tool/App
@@ -40,7 +40,7 @@
 
 ---
 
-## Style Guide
+## [ ] Style Guide
 
 - [ ] Define Font 
   - Font Headers: ___________
@@ -61,7 +61,7 @@
 
 ---
 
-## Getting Started Quick Guide
+## [ ] Getting Started Quick Guide
 
 [Download Template - Getting Started Guide](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Getting%20Started.md)
 
@@ -82,7 +82,7 @@
 
 ---
 
-## How To
+## [ ] How To
 
 [Download Template - How To](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20How%20To.md)
 
@@ -101,7 +101,7 @@
 
 ---
 
-## Reference Guide
+## [ ] Reference Guide
 [Download Template - Reference Guide](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Reference%20Guide.md)
 
 - [ ] Is easy to find: clearly visible on the main page
@@ -111,7 +111,7 @@
 - [ ] Options and defaults are explained and linked to more information where appropriate
 
 
-#### Command line tool items
+#### [ ] Command line tool items
 
   - [ ] All functions are described
   - [ ] All arguments of those functions are described
@@ -122,7 +122,7 @@
 
 
 
-#### GUI tool items
+#### [ ] GUI tool items
 
   - [ ] All buttons are described
   - [ ] All parameters are described and defaults explained
@@ -131,20 +131,20 @@
 
 ---
 
-## Code documentation
+## [ ] Code documentation
 
 - [ ] The code has a healthy amount of comments -- particularly in places where the code is “quirky.”
 
 ---
 
-## Feedback
+## [ ] Feedback
 
 - [ ] The user is given a clear avenue of where to direct questions or report bugs
 - [ ] Mechanism is in place to allow for you to respond to feedback
 
 ---
 
-## Overall items
+## [ ] Overall items
 
 - [ ] No broken links.
 	- [ ] Process for checking for broken links now and in future in place: ______________
