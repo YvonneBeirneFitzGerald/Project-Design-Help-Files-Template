@@ -1,4 +1,4 @@
-# Getting Started Guide
+<h1 align="center">Getting Started Guide</h1>
 
 21 May 2022
 
@@ -117,7 +117,7 @@ Versions History
 
 
 ---
-Contact
+Contact:
 
 Yvonne M. Beine FitzGerald
 
