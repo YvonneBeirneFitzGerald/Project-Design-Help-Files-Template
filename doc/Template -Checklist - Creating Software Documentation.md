@@ -69,7 +69,9 @@
 
 ---
 
-## How-to Examples
+## How To
+
+[Download Template - How To](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20How%20To.md)
 
 - [ ] Is easy to find: clearly visible on the main page
 - [ ] Demonstrates examples that are the most common use case(s)
@@ -87,6 +89,7 @@
 ---
 
 ## Reference Guide
+[Download Template - Reference Guide](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Reference%20Guide.md)
 
 - [ ] Is easy to find: clearly visible on the main page
 - [ ] Is searchable or at least visually easily able to be scanned
