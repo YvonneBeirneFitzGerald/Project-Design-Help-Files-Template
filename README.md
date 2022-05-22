@@ -7,6 +7,65 @@ Templates for creating user centric documentation.
 ---
 add from class 
 
+https://github.com/jhudsl/template-documentation
+
+emplate Documentation
+This is a companion tool for the creating your own documentation for an informatics tool following our Documentation and Usability course as a part of an ITCR training series.
+
+To see a preview of what this demo documentation website looks like go here: http://jhudatascience.org/template-documentation/
+
+To get started with this repository:
+Click Use this Template to get started.
+Name your repository something that relates to your tool.
+On your computer's command line:
+
+git clone your new repository you made from our template.
+Navigate to your the root of your local version of this repository.
+Install mkdocs following their instructions..
+Run mkdocs serve to see a preview of your docs
+Edit the template pages we've provided in the docs/ folder to pertain to your own tool.
+As you make changes you can run mkdocs build and then mkdocs serve to see a preview.
+When you are ready to publish your documentation to its own website, run mkdocs gh-deploy, it will return the web address of your new site.
+Go to the address it returned and bask in the success of your newly made documentation!
+Make sure to add plenty of links to this documentation to your Github repository for your tool or your tools' GUI.
+As you continue to edit your documentation, continue to use mkdocs serve to see a preview and mkdocs gh-deploy to publish your changes to your website.
+
+Using the template files individually:
+Download the folder of template files here and the checklist itself here.
+Complete each markdown template, filling in the blanks as you go along with the course.
+File a pull request to your own repository to add these files.
+About
+A template repository for creating documentation
+
+Resources
+ Readme
+Stars
+ 0 stars
+Watchers
+ 2 watching
+Forks
+ 1 fork
+Releases
+No releases published
+Packages
+No packages published
+Environments 1
+ github-pages Active
+Languages
+JavaScript
+65.6%
+ 
+HTML
+32.3%
+ 
+CSS
+1.7%
+ 
+R
+0.4%
+© 2022 GitHub, Inc.
+
+
 -----
 example stuff
 https://github.com/Descent098/ezcv
