@@ -50,6 +50,8 @@
 
 ## Getting Started Quick Guide
 
+[Download Template - Getting Started Guide](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Getting%20Started.md)
+
 - [ ] Is easy to find: clearly visible on the main page
 - [ ] Provides the user with the introductory concepts of the Tool/App
 - [ ] Has clear steps for installation
