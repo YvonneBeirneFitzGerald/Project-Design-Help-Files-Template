@@ -34,7 +34,8 @@ This tool is really awesome and serves this purpose.
 ## Installation Steps {From command line}
 
 
-#### Steps for {This Operating System}
+
+### Steps for {This Operating System}
 
 This tool requires this dependency to be installed first: [Some dependency](**** INSERT LINK HERE ****).
 
@@ -63,7 +64,9 @@ If you did not get {such and such} response you may need to {do this other thing
 
 
 
-#### Steps for {some other Operating system}
+
+
+### Steps for {some other Operating system}
 
 {Use altered steps from above}.
 
@@ -106,7 +109,7 @@ Now that you have the basic concepts down here are more examples of how to run m
 
 Versions History
 21 May 2022
-  - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University) [https://github.com/jhudsl/template-documentation]
+  - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University)[https://github.com/jhudsl/template-documentation]
   - Added additional items and customized to become my standard template for creating Tool/App Documentation
   - As class continues will updated
 
