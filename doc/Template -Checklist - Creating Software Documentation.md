@@ -1,5 +1,5 @@
 
-# Checklist - Software Documentation Template 
+# Checklist - Software Documentation 
 
 Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
 
