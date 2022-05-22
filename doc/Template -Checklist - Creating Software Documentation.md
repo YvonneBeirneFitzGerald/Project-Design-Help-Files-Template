@@ -1,6 +1,6 @@
 <h1 align="center">Checklist - Software Documentation </h1>
 
--- 
+---
 # [ ] TO DO TEMPLATES TO CREATE
 - [ ] UNDERSTANDING COMMUNITY
 - [ ] THE WHY
