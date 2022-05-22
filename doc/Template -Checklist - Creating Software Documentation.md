@@ -17,6 +17,7 @@ Project SIde
 - [ ] Finish class week 3
 - [ ] FInish claas week 4
 - [ ] Finish class week 5
+- [ ] Review each template adding code for adding imaage, video, tables ect to make the file easy to look great when done
 
 Maarketing
 - [ ] CREATE BLOG POST
