@@ -1,9 +1,14 @@
 site_name: Yvonne Tool & App Documentation Template
 nav:
     - Home: index.md
-    - Getting Started: getting_started_template.md
-    - How-to Examples: how_to_examples.md
-    - Reference Guide: reference_guide_template.md
-    - Source code: https://github.com/jhudsl/ITCR_Documentation_and_Usability
-    - Feedback: https://docs.google.com/forms/d/1erbaH2k8cra0A2GB6W9Da0tqJCT41ZPlCmHXpKRcMLk/edit?usp=sharing
+    - Checklist REMOVE When Done: Template -Checklist - Creating Software Documentation.md
+    - Getting Started: Template - Getting Started.md
+    - How To: Template - How To.md
+    - Reference Guide: Template - Reference Guide.md
+    - Code Page: Template - Code Documentation.md
+    - Source Code: https://github.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates
+    - Style Guide: Template - Style Guide.md
+    - About: Template - About The Creators.md
+    - Feedback Page: Template - Feedback.md
+    - Feedback: add https of google form link nothing needs to be added
 theme: readthedocs
