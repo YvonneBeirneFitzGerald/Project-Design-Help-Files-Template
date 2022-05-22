@@ -15,11 +15,16 @@
 - [ ] CREATE BLOG POST
 - [ ] CREATE IG POST
 - [ ] CREATE TWITTER POST
+- [ ] WRITE PERSONA STUFF UP
+- [ ] WRITE UP INCLUSIVITY STUFF
+- [ ] WRRITE UP ACCESSIBLITY STUFF
 
 
 ---
 
 ## [ ] Understanding Your User Community
+
+- ***** Add my persona info link here ****
 
 - [ ] Write down what you know (or think you know) 
 - [ ] Identify any knowledge gaps you might have about your user community
@@ -30,6 +35,7 @@
 ---
 
 ## [ ] The Why
+- ***** Add my persona info link here ****
 
 - [ ] The “why” of this Tool/App is obvious on the main page
 - [ ] The end user will be able to know from the Why if they need/ want your Tool/App
