@@ -12,7 +12,8 @@ Project SIde
 - [ ] MAKE MkDoc VERSION
 - [ ] CHECK LINKS
 - [ ] UPDATE SETTINGS
-- [ ] UPDATE MY PAGE git hub
+- [ ] UPDATE MY PAGE git hub project
+- [ ] CREATE NEW STATIC PAGE
 - [ ] CREATE PROJECT IMAGE
 - [ ] Finish class week 3
 - [ ] FInish claas week 4
