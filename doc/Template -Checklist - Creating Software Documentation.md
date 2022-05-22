@@ -1,8 +1,6 @@
 
 # Checklist - Software Documentation 
 
-Yvonne M. Beirne FitzGerald (hi@theYvonne.com)
-
 21 May 2022
 
 ---
