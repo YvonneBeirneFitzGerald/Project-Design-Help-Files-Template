@@ -4,16 +4,13 @@
 # [ ] TO DO TEMPLATES TO CREATE
 - [ ] UNDERSTANDING COMMUNITY
 - [ ] THE WHY
-- [ ] SYTLE GUIDE
-- [ ] CODE DOCUMENTATION
-- [ ] FEED BACK
 - [ ] HOW TO SETUP AS TEMPLATE
 - [ ] ADD HOW TO USE AS TEMPLATE TO MAIN READ.ME
 - [ ] WRITE UP BLURB FOR MAIN READ.ME
 - [ ] MAKE MkDoc VERSIOn
 - [ ] CHECK LINKS
 - [ ] UPDATE SETTINGS
-- [ ] UPDATE MY PAGE
+- [ ] UPDATE MY PAGE git hub
 - [ ] CREATE PROJECT IMAGE
 - [ ] CREATE BLOG POST
 - [ ] CREATE IG POST
@@ -48,6 +45,7 @@
 ---
 
 ## [ ] Style Guide
+[Download Template - Style Guide](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Style%20Guide.md)
 
 - [ ] Define Font 
   - Font Headers: ___________
@@ -66,6 +64,7 @@
 - [ ] Confirm inclusivity in selections
 - [ ] Confirm consitently using sytle guidelines
 - [ ] Theme
+- [ ] How was Tool/App Build/Designed
 
 ---
 
@@ -139,13 +138,26 @@
 
 ---
 
-## [ ] Code documentation
+## [ ] Code Documentation
+[Download Template -Code Documentation](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Code%20Documentation.md)
 
 - [ ] The code has a healthy amount of comments -- particularly in places where the code is “quirky.”
 
 ---
 
+## [ ] About The Creators
+[Download Template - About The Creators](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/About%20The%20Creators.md)
+
+- [ ] Bios of who wrote / contributed
+- [ ] Aboout Team as Group
+- [ ] About Sponser Organization
+- [ ] Any grants or funding needing to be listed
+
+
+---
+
 ## [ ] Feedback
+[Download Template - Feedback](https://raw.githubusercontent.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates/main/doc/Template%20-%20Feedback.md)
 
 - [ ] The user is given a clear avenue of where to direct questions or report bugs
 - [ ] Mechanism is in place to allow for you to respond to feedback
