@@ -1,6 +1,7 @@
 # Getting Started
 
 Yvonne Beirne FitzGerald
+
 21 May 2022
 
 ---
@@ -18,6 +19,8 @@ _Checklist for this section:_
 ## Why {this tool}?
 
 This tool is really awesome and serves this purpose.
+
+---
 
 ## Installation steps {from command line}
 
@@ -52,6 +55,10 @@ If you did not get {such and such} response you may need to {do this other thing
 
 {Use altered steps from above}.
 
+
+---
+
+
 ## Quick tutorial
 
 {This tool} is based on these concepts.
@@ -70,6 +77,10 @@ SOME COMMAND THAT RUNS A SIMPLE ANALYSIS
 Look at this really cool output result! You can get this for your own data too!
 
 [Some really cool output result]().
+
+
+---
+
 
 ## Links to other How-to Examples
 
