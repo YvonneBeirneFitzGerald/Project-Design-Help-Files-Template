@@ -1,0 +1,54 @@
+---
+title: "Vignette Title"
+author: "Vignette Author"
+package: PackageName
+output:
+  BiocStyle::html_document
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}  
+---
+
+# Introduction
+
+What is this vignette going to demonstrate about your tool?
+Add links to your package and other relevant information.
+What background information should your user know?
+
+From Bioconductor about this section:
+> Add an “Introduction” section that serves as an abstract to introduce the objective, models, unique functions, key points, etc that distinguish the package from other packages of similar type.
+
+_More info_:  
+
+- [Bioconductor's vignette guidance](https://www.bioconductor.org/developers/package-guidelines/#Vignettes).  
+- Guidance from [Oles et al, 2021](https://bioconductor.org/packages/devel/bioc/vignettes/BiocStyle/inst/doc/AuthoringRmdVignettes.html) on creating Bioconductor R Markdown vignettes.
+
+# Installation
+
+From Bioconductor:
+> Add an “Installation” section that show to users how to download and load the package from Bioconductor.
+
+# Table of Contents
+
+Can use [`doctoc`](https://www.npmjs.com/package/doctoc) to generate this.
+
+# Executable code steps sections
+
+Here's where you can start your executable code step sections.
+
+From Bioconductor:  
+> Non-trival executable code is a must!!! Static vignettes are not acceptable.
+
+Two other points from Bioconductor:   
+> Only the vignette file (.Rnw or .Rmd) and any necessary static images should be in the vignette directory. No intermediate files should be present.
+
+> Remember to include any relevant references to methods.
+
+# Session Info
+
+For reproducibility purposes, run `SessionInfo()` so your user knows what your environment looked like when you ran this example.
+
+```{r}
+SessionInfo()
+```
