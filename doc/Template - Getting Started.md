@@ -1,7 +1,5 @@
 # Getting Started Guide
 
-Yvonne Beirne FitzGerald
-
 21 May 2022
 
 ---
