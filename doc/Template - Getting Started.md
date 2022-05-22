@@ -35,7 +35,9 @@ This tool is really awesome and serves this purpose.
 
 
 
-### Steps for {This Operating System}
+
+
+### _Steps for {This Operating System}_
 
 This tool requires this dependency to be installed first: [Some dependency](**** INSERT LINK HERE ****).
 
@@ -66,7 +68,9 @@ If you did not get {such and such} response you may need to {do this other thing
 
 
 
-### Steps for {some other Operating system}
+
+
+### _Steps for {some other Operating system}_
 
 {Use altered steps from above}.
 
@@ -111,7 +115,7 @@ Versions History
 21 May 2022
   - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University)[https://github.com/jhudsl/template-documentation]
   - Added additional items and customized to become my standard template for creating Tool/App Documentation
-  - As class continues will updated
+ 
 
 
 ---
