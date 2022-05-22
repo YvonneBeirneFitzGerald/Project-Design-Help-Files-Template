@@ -6,27 +6,28 @@ Yvonne Beirne FitzGerald
 
 ---
 
-_Checklist for this section:_  
+_Checklist For This Section:_  
 
 - [ ] Is easy to find: clearly visible on the main page.  
-- [ ]  Provides the user with the introductory concepts of the tool.  
+- [ ] Provides the user with the introductory concepts of the Tool.  
 - [ ] Has clear steps for installation.  
 - [ ] Dependencies are made clear.  
-- [ ]  Directs the user to the How-to Examples section.
+- [ ] Directs the user to the How-to Examples section.
 
 ---
 
-## Why {this tool}?
+## Why {This Tool/App}?
 
 This tool is really awesome and serves this purpose.
 
 ---
 
-## Installation steps {from command line}
+## Installation Steps {From command line}
 
-### Steps for {this Operating system}
 
-This tool requires this dependency to be installed first: [Some dependency](Link to info).
+#### Steps for {This Operating System}
+
+This tool requires this dependency to be installed first: [Some dependency](**** INSERT LINK HERE ****).
 
 We can install that using this command:
 
@@ -49,9 +50,10 @@ SOME BASH COMMAND TO TEST IF IT INSTALLED
 
 If you did not get {such and such} response you may need to {do this other thing}.
 
-[Screenshot of reassurance]()
+[Screenshot of reassurance](**** INSERT LINK HERE ****)
 
-### Steps for {some other Operating system}
+
+#### Steps for {some other Operating system}
 
 {Use altered steps from above}.
 
@@ -59,9 +61,9 @@ If you did not get {such and such} response you may need to {do this other thing
 ---
 
 
-## Quick tutorial
+## Quick Tutorial
 
-{This tool} is based on these concepts.
+{This Tool/App} is based on these concepts.
 We can run the simplest form of this analysis by using this example data that we obtained from {where the data are from and a description about what they are}.
 
 ```
@@ -76,15 +78,15 @@ SOME COMMAND THAT RUNS A SIMPLE ANALYSIS
 
 Look at this really cool output result! You can get this for your own data too!
 
-[Some really cool output result]().
+[Some really cool output result](**** INSERT LINK HERE ****)
 
 
 ---
 
 
-## Links to other How-to Examples
+## Codebook - How-to Examples 
 
-Now that you have the basic concepts down here are more examples of how to run more analyses with {this tool}.
+Now that you have the basic concepts down here are more examples of how to run more analyses with {this Tool/App}.
 
 - [How to example](how_to_examples.md)
 
@@ -93,8 +95,8 @@ Now that you have the basic concepts down here are more examples of how to run m
 Versions History
 21 May 2022
   - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University) [https://github.com/jhudsl/template-documentation]
-  -YMBF added additional items and customized to become my standard template for creating Tool/App Documentation
-  - YMBF as class continues will updated
+  - Added additional items and customized to become my standard template for creating Tool/App Documentation
+  - As class continues will updated
 
 ---
 Contact
