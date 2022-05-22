@@ -1,0 +1,9 @@
+site_name: Yvonne Tool & App Documentation Template
+nav:
+    - Home: index.md
+    - Getting Started: getting_started_template.md
+    - How-to Examples: how_to_examples.md
+    - Reference Guide: reference_guide_template.md
+    - Source code: https://github.com/jhudsl/ITCR_Documentation_and_Usability
+    - Feedback: https://docs.google.com/forms/d/1erbaH2k8cra0A2GB6W9Da0tqJCT41ZPlCmHXpKRcMLk/edit?usp=sharing
+theme: readthedocs
