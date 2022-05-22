@@ -1,5 +1,14 @@
 <h1 align="center">Checklist - Software Documentation </h1>
 
+-- 
+# TEMPLATES TO CREATE
+- [ ] UNDERSTANDING COMMUNITY
+- [ ] THE WHY
+- [ ] SYTLE GUIDE
+- [ ] CODE DOCUMENTATION
+- [ ] FEED BACK
+
+
 ---
 
 ## Understanding Your User Community
@@ -18,7 +27,7 @@
 - [ ] The end user will be able to know from the Why if they need/ want your Tool/App
 - [ ] Says what need the Tool/App fulfills
 - [ ] Indicates what problem Tool/App solves
-- [ ] Tagline of Tool/App purpose brief (Use this as a quide)[https://theYvonne.com/blog/secret-to-success-in-8-words]
+- [ ] Tagline of Tool/App purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
 - [ ] Summary of Tool/App purpose brief
 - [ ] Avoid jargon
 - [ ] Example of a good ones 
