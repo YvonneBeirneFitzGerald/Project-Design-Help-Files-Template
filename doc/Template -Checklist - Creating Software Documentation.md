@@ -59,6 +59,7 @@
 - [ ] Define Images
 - [ ] Confirm inclusivity in selections
 - [ ] Confirm consitently using sytle guidelines
+- [ ] Theme
 
 ---
 
