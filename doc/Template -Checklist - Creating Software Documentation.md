@@ -14,6 +14,9 @@ Project SIde
 - [ ] UPDATE SETTINGS
 - [ ] UPDATE MY PAGE git hub
 - [ ] CREATE PROJECT IMAGE
+- [ ] Finish class week 3
+- [ ] FInish claas week 4
+- [ ] Finish class week 5
 
 Maarketing
 - [ ] CREATE BLOG POST
