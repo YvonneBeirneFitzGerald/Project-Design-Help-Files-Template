@@ -1,5 +1,4 @@
 <h1 align="center">Getting Started Guide</h1>
-
 ---
 
 _Checklist For This Section:_  
