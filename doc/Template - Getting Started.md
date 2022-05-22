@@ -1,7 +1,5 @@
 <h1 align="center">Getting Started Guide</h1>
 
-21 May 2022
-
 ---
 
 _Checklist For This Section:_  
