@@ -1,5 +1,5 @@
+<h1 align="center">Checklist - Software Documentation </h1>
 
-# Checklist - Software Documentation 
 
 21 May 2022
 
@@ -153,7 +153,7 @@
 
 
 ----
-Contact
+Contact:
 
 Yvonne M. Beine FitzGerald
 
