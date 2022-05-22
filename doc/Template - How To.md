@@ -29,7 +29,7 @@ If your Tool/App's destination is *** XYZ ***, see our specific guidance on thos
 ## Versions History
 
 - 21 May 2022
-	- [Inital Checklist]  (https://github.com/jhudsl/template-documentation) based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University	
+	- Inital Document based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University	
 	- Added additional items and customized to become my standard template for creating Tool/App Documentation
 
 
