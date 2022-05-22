@@ -113,7 +113,7 @@ Now that you have the basic concepts down here are more examples of how to run m
 
 Versions History
 21 May 2022
-  - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University)[https://github.com/jhudsl/template-documentation]
+  - Initial Documenent based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University
   - Added additional items and customized to become my standard template for creating Tool/App Documentation
  
 
