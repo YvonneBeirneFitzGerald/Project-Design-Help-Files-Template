@@ -69,3 +69,10 @@ Look at this really cool output result! You can get this for your own data too!
 Now that you have the basic concepts down here are more examples of how to run more analyses with {this tool}.
 
 - [How to example](how_to_examples.md)
+
+---
+
+Version History
+
+21 May 2021
+  
