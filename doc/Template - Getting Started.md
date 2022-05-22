@@ -1,4 +1,4 @@
-# [Getting Started](https://jhudatascience.org/ITCR_Documentation_and_Usability/creating-a-smooth-getting-started-section.html)
+# Getting Started
 
 Yvonne Beirne FitzGerald
 21 May 2022
