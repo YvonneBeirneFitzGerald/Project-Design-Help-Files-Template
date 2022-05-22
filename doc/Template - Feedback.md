@@ -29,7 +29,7 @@ _Checklist For This Section:_
 
 Versions History
 22 May 2022
-  - Initial Documenent based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University
+  - Concept Documenent based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University
   - Added additional items and customized to become my standard template for creating Tool/App Documentation
  
 
