@@ -1,12 +1,19 @@
 # [Getting Started](https://jhudatascience.org/ITCR_Documentation_and_Usability/creating-a-smooth-getting-started-section.html)
 
+Yvonne Beirne FitzGerald
+21 May 2022
+
+---
+
 _Checklist for this section:_  
 
-- Is easy to find: clearly visible on the main page.  
-- Provides the user with the introductory concepts of the tool.  
-- Has clear steps for installation.  
-- Dependencies are made clear.  
-- Directs the user to the How-to Examples section.
+- [ ] Is easy to find: clearly visible on the main page.  
+- [ ]  Provides the user with the introductory concepts of the tool.  
+- [ ] Has clear steps for installation.  
+- [ ] Dependencies are made clear.  
+- [ ]  Directs the user to the How-to Examples section.
+
+---
 
 ## Why {this tool}?
 
@@ -72,7 +79,18 @@ Now that you have the basic concepts down here are more examples of how to run m
 
 ---
 
-Version History
+Versions History
+21 May 2022
+  - Initial Documenent based on the (Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University) [https://github.com/jhudsl/template-documentation]
+  -YMBF added additional items and customized to become my standard template for creating Tool/App Documentation
+  - YMBF as class continues will updated
 
-21 May 2021
+---
+Contact
+
+Yvonne M. Beine FitzGerald
+
+theYvonne.com
+
+hi[@]theyvonne.com
   
