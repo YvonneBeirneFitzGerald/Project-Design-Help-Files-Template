@@ -26,6 +26,25 @@ If your Tool/App's destination is *** XYZ ***, see our specific guidance on thos
 
 ---
 
+
+_For Bioconductor vignettes_:
+
+-   [Our Bioconductor specific how-to example templates](https://jhudatascience.org/template-documentation/bioconductor_guides/bioconductor_vignette_template.Rmd).  
+    
+-   [Bioconductor’s own vignette guidance](https://www.bioconductor.org/developers/package-guidelines/#Vignettes).  
+    
+-   [Guidance on writing RMarkdown Vignettes](https://bioconductor.org/packages/devel/bioc/vignettes/BiocStyle/inst/doc/AuthoringRmdVignettes.html) by Andrzej Oleś and Morgan ([2021](https://jhudatascience.org/Documentation_and_Usability/no_toc/creating-helpful-how-to-examples.html#ref-Oles2021)).
+
+_For Galaxy vignettes_:
+
+-   [See this Galaxy tutorial for creating new tutorials!](https://training.galaxyproject.org/training-material/topics/contributing/tutorials/create-new-tutorial/tutorial.html)
+
+
+
+
+
+----
+
 ## Versions History
 
 - 21 May 2022
