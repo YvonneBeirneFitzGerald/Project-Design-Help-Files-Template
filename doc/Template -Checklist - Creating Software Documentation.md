@@ -9,6 +9,11 @@ GitHub Side
 
 Project SIde
 - [ ] WRITE UP BLURB FOR MAIN READ.ME
+- [ ] Add funding
+- [ ] Add Acknolwegment 
+- [ ] (Check out)[http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html]
+- [ ] (Check out)[https://docs.qiime2.org/2022.2/]
+- [ ] Core Conceepts
 - [ ] MAKE MkDoc VERSION
 - [ ] CHECK LINKS
 - [ ] UPDATE SETTINGS
