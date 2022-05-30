@@ -24,6 +24,8 @@ Project SIde
 - [ ] FInish claas week 4
 - [ ] Finish class week 5
 - [ ] Review each template adding code for adding imaage, video, tables ect to make the file easy to look great when done
+- [ } Write up how to use MKdoc https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7
+
 
 Maarketing
 - [ ] CREATE BLOG POST
