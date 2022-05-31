@@ -1,7 +1,9 @@
 # Tool-App-Documention-Templates
 Templates for creating user centric documentation.
 
+“It doesn’t matter how good your software is, because if the documentation is not good enough, people will not use it.“
 
+— Daniele Procida
 
 
 ---
