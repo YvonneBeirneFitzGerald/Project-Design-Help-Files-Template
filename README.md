@@ -5,6 +5,10 @@ Templates for creating user centric documentation.
 
 — Daniele Procida
 
+“Code tells you how; Comments tell you why.”
+
+— Jeff Atwood (aka Coding Horror)
+
 
 ---
 add from class 
