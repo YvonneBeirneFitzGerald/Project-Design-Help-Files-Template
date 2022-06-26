@@ -30,7 +30,7 @@
     - Like This Tool From Article Google Search Console  includes a broken link report option for monitoring websites for content with broken links
 
 ---
-_Add Tool Contact Info_
+_Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
 _Add Links_

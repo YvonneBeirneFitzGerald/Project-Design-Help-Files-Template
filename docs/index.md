@@ -8,7 +8,7 @@ First and foremost, you should [explain the Why of your tool!](Link to chapter t
 
 For [Bioconductor specific guidance go here](./doc/bioconductor-guides).
 ---
-_Add Tool Contact Info_
+_Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
 _Add Links_

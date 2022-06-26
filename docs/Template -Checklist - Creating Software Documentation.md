@@ -213,7 +213,7 @@ Take To Next Level
 
 
 ---
-_Add Tool Contact Info_
+_Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
 _Add Links_
