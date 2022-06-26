@@ -2,7 +2,7 @@
 
 ---
 
-_Checklist For This Section:_  
+###### _Checklist For This Section:_  
 
 - [ ] Define Font 
   - Font Headers: ___________

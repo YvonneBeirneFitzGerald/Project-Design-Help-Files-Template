@@ -3,7 +3,7 @@
 
 ---
 
-_Checklist for this section:_
+###### _Checklist for this section:_
 
 - [ ] Is easy to find: clearly visible on the main page
 - [ ] Demonstrates examples that are the most common use case(s)

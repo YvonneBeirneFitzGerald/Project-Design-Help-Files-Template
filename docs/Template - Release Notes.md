@@ -2,44 +2,44 @@
 
 ---
 
-_Checklist For This Section:_  
+###### _Checklist For This Section:_  
 
 - [ ] Use this template to keep running list of updates
 - [ ] Options:
     - [ ] All updates on one page or 
     - [ ] single page for each update linked back to this page
 
---
+---
 
 _Template Below_  
 
 ---
 
-## Tool Name v 2.2.0
-Date
-##### Shinny New Things
-- Add New Features Here
+# Tool Name v 2.2.0
+Date  
 
+**Shinny New Things**    
+- Add New Features Here  
 
-##### Improvements
-- Add Updates and Improvements Here
+**Improvements**   
+- Add Updates and Improvements Here  
 
-##### No Longer Broken
-- Add Bug Fixes Here
+**No Longer Broken**   
+- Add Bug Fixes Here  
 
 --- 
 
-## Tool Name v 1.2.0
-Date
-##### Shinny New Things
-- Add New Features Here
+#Tool Name v 1.2.0
+Date   
 
+**Shinny New Things**  
+- Add New Features Here  
 
-##### Improvements
-- Add Updates and Improvements Here
+**Improvements**   
+- Add Updates and Improvements Here  
 
-##### No Longer Broken
-- Add Bug Fixes Here
+**No Longer Broken**     
+- Add Bug Fixes Here  
 
 
 

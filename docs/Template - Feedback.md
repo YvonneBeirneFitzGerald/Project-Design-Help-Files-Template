@@ -2,7 +2,7 @@
 
 ---
 
-_Checklist For This Section:_  
+###### _Checklist For This Section:_  
 
 - [ ] The user is given a clear avenue of where to direct questions or report bugs
 - [ ] Mechanism is in place to allow for you to respond to feedback

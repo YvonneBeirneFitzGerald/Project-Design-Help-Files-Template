@@ -2,7 +2,7 @@
 
 ---
 
-_Checklist For This Section:_  
+###### _Checklist For This Section:_  
 
 - [ ] Is easy to find: clearly visible on the main page.  
 - [ ] Provides the user with the introductory concepts of the Tool.  

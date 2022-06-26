@@ -3,10 +3,10 @@
 
 ---
 
-_Checklist For This Section:_  
+###### _Checklist For This Section:_  
 
 - Note to self page 
-    - When first version of Tool/App Documenation is completed Remove this page from yml and delete page in doc directory
+- When first version of Tool/App Documenation is completed Remove this page from yml and delete page in doc directory
 - Use Version Control for Tool/App AND Documenation  ie GitHub
 - Consider having documentation and tool/app in same place
 - Track Documenation issues same way track software task
