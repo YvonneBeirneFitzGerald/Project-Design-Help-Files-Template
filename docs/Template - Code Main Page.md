@@ -38,15 +38,17 @@ class stuff
 - [Code review](https://simpleprogrammer.com/why-code-reviews-make-better-code-teams/) is also an excellent way to improve code clarity and quality ([Bodner 2018](https://jhudatascience.org/Documentation_and_Usability/no_toc/creating-clarifying-code-comments.html#ref-Bodner2018))!
 
 
-review week 4 stuff and 5 stuff
-
 ---
+Put Contact for Tool/App  
 Yvonne M. Beine FitzGerald  
-theYvonne.com  
+[theYvonne.com](https://theyvonne.com)  
 hi[@]theyvonne.com  
 
 ---
 
-Terms (link to Terms Page)  
-Privacy (link to Privacy Page)  
-App/Tool (bring back to App/Tool Page)  
+Terms (Add link to Terms Page)  
+Privacy (Add link to Privacy Page)  
+App/Tool (Add bring back to App/Tool Page)    
+
+---
+Lasted Update: 26 June 2022 

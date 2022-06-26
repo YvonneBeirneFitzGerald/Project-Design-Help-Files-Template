@@ -39,12 +39,17 @@ Versions History
  
 
 ---
+Put Contact for Tool/App  
 Yvonne M. Beine FitzGerald  
-theYvonne.com  
+[theYvonne.com](https://theyvonne.com)  
 hi[@]theyvonne.com  
 
 ---
 
-Terms (link to Terms Page)  
-Privacy (link to Privacy Page)  
-App/Tool (bring back to App/Tool Page)  
+Terms (Add link to Terms Page)  
+Privacy (Add link to Privacy Page)  
+App/Tool (Add bring back to App/Tool Page)    
+
+---
+Lasted Update: 26 June 2022 
+
