@@ -8,14 +8,11 @@
 - [ ] Options:
     - [ ] All updates on one page or 
     - [ ] single page for each update linked back to this page
+ 
 
 ---
 
-_Template Below_  
-
----
-
-# Tool Name v 2.2.0
+# Tool/App Name v 2.2.0
 Date  
 
 **Shinny New Things**    
@@ -29,7 +26,7 @@ Date
 
 --- 
 
-#Tool Name v 1.2.0
+# Tool Name/App v 1.2.0
 Date   
 
 **Shinny New Things**  
