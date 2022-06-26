@@ -6,7 +6,7 @@
 _Checklist For This Section:_  
 
 - Note to self page 
-- When first version of Tool/App Documenation is completed Remove this page from yml and delete page in doc directory
+    - When first version of Tool/App Documenation is completed Remove this page from yml and delete page in doc directory
 - Use Version Control for Tool/App AND Documenation  ie GitHub
 - Consider having documentation and tool/app in same place
 - Track Documenation issues same way track software task
@@ -27,9 +27,16 @@ _Checklist For This Section:_
 -   [GitHub action: urlchecker-action](https://github.com/marketplace/actions/urlchecker-action)
 -   [GitHub action: URL checker](https://github.com/marketplace/actions/url-checker)
 - [6 Tools to Find Broken Links on Your Website](https://www.outlookstudios.com/tools-to-find-broken-links-on-your-website/) 
-    - Google Search Console  includes a broken link report option for monitoring websites for content with broken links
+    - Like This Tool From Article Google Search Console  includes a broken link report option for monitoring websites for content with broken links
 
 ---
+
+Versions History For Document  
+26 June 2022  
+Create Initial Template 
+
+---  
+
 Yvonne M. Beine FitzGerald  
 theYvonne.com  
 hi[@]theyvonne.com  

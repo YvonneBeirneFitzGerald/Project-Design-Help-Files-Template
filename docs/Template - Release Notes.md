@@ -32,7 +32,7 @@ Date
 ## Tool Name v 1.2.0
 Date
 ##### Shinny New Things
-- dd New Features Here
+- Add New Features Here
 
 
 ##### Improvements
