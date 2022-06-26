@@ -1,5 +1,14 @@
 # About the creators
 
+Teaam
+Maintainers
+Contributros
+
+Funding info
+
+Style Guide
+
+
 ---
 _Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  

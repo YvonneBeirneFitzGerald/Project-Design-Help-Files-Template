@@ -5,6 +5,7 @@ nav:
     - Getting Started: Template - Getting Started.md
     - How To: Template - How To.md
     - Reference Guide: Template - Reference Guide.md
+    - FAQ: Template - FAQ.md
     - Code: Template - Code Main Page.md
     - Code Page: Template - Code Documentation.md
     - Source Code: https://github.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates
@@ -13,7 +14,6 @@ nav:
     - Feedback: Template - Feedback Mainpage.md
     - Feedback Page: Template - Feedback.md
     - Google Form Feedback: Template - Google Feedback Form.md
-    - FAQ: Template - FAQ.md
     - Release Notes: Template - Release Notes.md
     - Keeping Up To Date: Template - Keeping Up To Date.md
     
