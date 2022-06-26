@@ -48,3 +48,13 @@ FAQ
 	- [Building an Online Community](https://geekflare.com/online-community-software/) Rehan 2019
 	- [A Quick Guide for Building a Successful Bioinformatics Community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003972) Budd et al. 2015 
 
+---
+Yvonne M. Beine FitzGerald  
+theYvonne.com  
+hi[@]theyvonne.com  
+
+---
+
+Terms (link to Terms Page)  
+Privacy (link to Privacy Page)  
+App/Tool (bring back to App/Tool Page)  

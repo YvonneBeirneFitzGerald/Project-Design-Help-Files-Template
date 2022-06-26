@@ -40,3 +40,13 @@ How to keep your documentation up to date
 -   If you use GitHub for your documentation, add a url checking GitHub action to your repository. We used a url-checker GitHub action for developing this course! You can see [ours here for an example](https://github.com/jhudsl/Documentation_and_Usability/blob/main/.github/workflows/url-checker.yml).  
 -   If you use something else for version control, look into URL checkers that you can easily implement into your development process.
 
+---
+Yvonne M. Beine FitzGerald  
+theYvonne.com  
+hi[@]theyvonne.com  
+
+---
+
+Terms (link to Terms Page)  
+Privacy (link to Privacy Page)  
+App/Tool (bring back to App/Tool Page)  

@@ -177,11 +177,14 @@ from class notes
 	- Added additional items and customized to become my standard template for creating Tool/App Documentation
 
 
-----
-Contact:
 
-Yvonne M. Beine FitzGerald
+---
+Yvonne M. Beine FitzGerald  
+theYvonne.com  
+hi[@]theyvonne.com  
 
-theYvonne.com
+---
 
-hi[@]theyvonne.com
+Terms (link to Terms Page)  
+Privacy (link to Privacy Page)  
+App/Tool (bring back to App/Tool Page)  
