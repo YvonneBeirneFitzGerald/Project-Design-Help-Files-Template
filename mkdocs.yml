@@ -13,6 +13,9 @@ nav:
     - Feedback: Template - Feedback Mainpage.md
     - Feedback Page: Template - Feedback.md
     - Google Form Feedback: Template - Google Feedback Form.md
+    - FAQ: Template - FAQ.md
+    - Version History: Template - Version History.md
+    - Keeping Up To Date: Template - Keeping Up To Date.md
 theme:
     name: readthedocs
     prev_next_buttons_location: both
