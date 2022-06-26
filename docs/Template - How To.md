@@ -169,16 +169,12 @@ from class notes
 
 
 ---
-Put Contact for Tool/App  
-Yvonne M. Beine FitzGerald  
-[theYvonne.com](https://theyvonne.com)  
-hi[@]theyvonne.com  
+_Add Tool Contact Info_
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
----
+_Add Links_
 
-Terms (Add link to Terms Page)  
-Privacy (Add link to Privacy Page)  
-App/Tool (Add bring back to App/Tool Page)    
+<center>Terms | Privacy Policy | App/Tool </center>
 
----
-Lasted Update: 26 June 2022 
+<center>Lasted Update: 26 June 2022 </center>
+

@@ -105,21 +105,14 @@ Now that you have the basic concepts down here are more examples of how to run m
 
 
 ---
+_Add Tool Contact Info_
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
+_Add Links_
 
----
-Put Contact for Tool/App  
-Yvonne M. Beine FitzGerald  
-[theYvonne.com](https://theyvonne.com)  
-hi[@]theyvonne.com  
+<center>Terms | Privacy Policy | App/Tool </center>
 
----
+<center>Lasted Update: 26 June 2022 </center>
 
-Terms (Add link to Terms Page)  
-Privacy (Add link to Privacy Page)  
-App/Tool (Add bring back to App/Tool Page)    
-
----
-Lasted Update: 26 June 2022 
 
   

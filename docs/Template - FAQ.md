@@ -1,4 +1,4 @@
-FAQ
+<h1 align="center">FAQ</h1>
 
 
 #### Week 5 - 1 Learning Objectives Other helpful features
@@ -48,17 +48,14 @@ FAQ
 	- [Building an Online Community](https://geekflare.com/online-community-software/) Rehan 2019
 	- [A Quick Guide for Building a Successful Bioinformatics Community](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003972) Budd et al. 2015 
 
----
-Put Contact for Tool/App  
-Yvonne M. Beine FitzGerald  
-[theYvonne.com](https://theyvonne.com)  
-hi[@]theyvonne.com  
 
 ---
+_Add Tool Contact Info_
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
-Terms (Add link to Terms Page)  
-Privacy (Add link to Privacy Page)  
-App/Tool (Add bring back to App/Tool Page)    
+_Add Links_
 
----
-Lasted Update: 26 June 2022 
+<center>Terms | Privacy Policy | App/Tool </center>
+
+<center>Lasted Update: 26 June 2022 </center>
+
