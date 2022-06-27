@@ -186,3 +186,12 @@ Template repository for bootstrapping projects
 Template repository for ezcv integrated with flask
 
 See documentation for included themes for examples of each of the included themes
+---
+_Add Tool/App Contact Info_
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
+
+_Add Links_
+
+<center>Terms | Privacy Policy | App/Tool </center>
+
+<center>Lasted Update: 26 June 2022 </center>
