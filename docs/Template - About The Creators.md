@@ -13,18 +13,46 @@
     - Other Apps
 ---
 
-Teaam
-Maintainers
-Contributros
+### Tool/App
+- Summary of the apps itself
 
-Funding info
 
-[Style Guide / Brand Book](Template - Style Guide.md)
+### Teaam
+- ###### Creators
+    - Names
+    - Picture
+    - Bio
+    - Contact Info
+- ##### Maintainers
+    - Names
+    - Picture
+    - Bio
+    - Contact Info
+- ##### Contributros
+    - Names
+    - Picture
+    - Bio
+    - Contact Info
+- ##### Lab
+   - Names
+    - Picture
+    - Bio
+    - Contact Info
 
+### Funding Info
+- How Funding
+
+### Price
+- Free?, Freeium?, Purchase? Subscription, Single Purchasee, Upgrades
+
+### Style Guide (Brand Book)
+- [Style Guide / Brand Book](Template - Style Guide.md)
 - A Style Guide also can be known as a brand boook is something useful for the creators to estaablish prior to workin on a project
 - This may be something that is not shared with the end user or maybe some parts are
 
+### Any Other Credits
 
+### Other Apps/Tool by Creator
 
 
 ---
