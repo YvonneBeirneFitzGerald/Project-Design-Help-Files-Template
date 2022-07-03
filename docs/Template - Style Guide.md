@@ -8,6 +8,7 @@
 - It is useful to have this document for yourself, it is your call if inclued in public documenation
 - If others are collaborating or maintaining the Tool/App this is something useful for everyone
 - Good to have this setup at the begining of the project
+- This page is linked from the About pagee. Leaving it in the navigation so it is up front when first using this template.  Whend Tool/App/Doc done this mighht be removed from the yml file
 
 ---
 
