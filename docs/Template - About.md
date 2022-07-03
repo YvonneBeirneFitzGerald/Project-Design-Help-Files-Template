@@ -1,4 +1,4 @@
-# About the creators
+# About
 
 
 ###### _Checklist For This Section:_  
@@ -15,6 +15,11 @@
 
 ### Tool/App
 - Summary of the apps itself
+
+
+##3 Liscence
+
+- How is code liscenced
 
 
 ### Teaam
