@@ -6,7 +6,11 @@ Contributros
 
 Funding info
 
-Style Guide
+[Style Guide / Brand Book](Template - Style Guide.md)
+- A Style Guide also can be known as a brand boook is something useful for the creators to estaablish prior to workin on a project
+- This may be something that is not shared with the end user or maybe some parts are
+
+
 
 
 ---

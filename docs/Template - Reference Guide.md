@@ -37,6 +37,9 @@ For inspiration and examples of nice cheatsheets, take a look through [RStudio's
 
 If you use Overleaf, there are [template cheatsheets you can use here](https://www.overleaf.com/gallery/tagged/cheat-sheet).
 
+## Accessiblity 
+- [Acccessiblity](Template - Accessibility Information.md)
+
 ---
 
 
