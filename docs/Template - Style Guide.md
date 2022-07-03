@@ -51,11 +51,12 @@
   - Linespacing:
   - Lettterspacing: 
 
-###  Icons Libary
+###  Library
+#### Icons Library
   - Place key iccons and their meaaning in a list here
   - Add any credit information
 
-###  Images Libraary
+####  Images Library
   - Place logos and other art that is useful or need to be defined here
   - Add any credit information
 
