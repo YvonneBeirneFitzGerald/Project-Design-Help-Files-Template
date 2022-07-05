@@ -17,11 +17,6 @@
 - Summary of the apps itself
 
 
-### Liscence
-
-- How is code liscenced
-
-
 ### Team
 - ###### Creators
     - Names
@@ -56,6 +51,10 @@
 - This may be something that is not shared with the end user or maybe some parts are
 
 ### Any Other Credits
+
+### Liscence
+
+- How is code liscenced
 
 ### Other Apps/Tool by Creator
 

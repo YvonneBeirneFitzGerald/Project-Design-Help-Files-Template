@@ -7,6 +7,9 @@ This would be your landing page for your user!
 First and foremost, you should [explain the Why of your tool!](Link to chapter that describes this).
 
 For [Bioconductor specific guidance go here](./doc/bioconductor-guides).
+
+
+- links to how too , getting starteed , faq refeerence guide aand feedback
 ---
 _Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  

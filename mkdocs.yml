@@ -1,21 +1,21 @@
 site_name: Yvonne's Template For Tool & App User Documentation 
 nav:
     - Home: index.md
-    - Tool/App Usage:
+    - Help:
        - Getting Started: Template - Getting Started.md
        - How To: Template - How To.md
        - Reference Guide: Template - Reference Guide.md
        - FAQ: Template - FAQ.md
        - Release Notes: Template - Release Notes.md
-    - Code:
-        - Code Page: Template - Code Documentation.md
-        - Go To Source Code: https://github.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates
     - About:
         - About: Template - About.md
         - Style Guide: Template - Style Guide.md
     - Feedback:
         - Feedback: Template - Feedback.md
         - Go To Google Forms: https://www.google.com/forms/about/
+    - Code:
+        - Code Page: Template - Code Documentation.md
+        - Go To Source Code: https://github.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates  
     - Template Only (Remove When Done):
         - Keeping Up To Date: Template - Keeping Up To Date.md
         - Checklist: Template -Checklist - Creating Software Documentation.md
