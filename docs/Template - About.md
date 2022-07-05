@@ -17,12 +17,12 @@
 - Summary of the apps itself
 
 
-##3 Liscence
+### Liscence
 
 - How is code liscenced
 
 
-### Teaam
+### Team
 - ###### Creators
     - Names
     - Picture

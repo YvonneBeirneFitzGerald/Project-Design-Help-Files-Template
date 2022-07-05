@@ -4,13 +4,19 @@
 
 _Checklist For This Section:_  
 
-- [ ] The code has a healthy amount of comments -- particularly in places where the code is “quirky.”
+- The code has a healthy amount of comments -- particularly in places where the code is “quirky.”
+- Link to source code yes/no?
+- How to contribute
+- Feedback
+
+
 
 ---
 
 ## General
 - Do you want to share source code
 - Do you want to say what langauge  it is in
+- What Lanuage
 
 
 ---
@@ -23,20 +29,24 @@ _Checklist For This Section:_
 ---
 
 
+## How To Contribute
+
+- How to contribute
+
+
+ ---
+
+## Feedback
+
+- Link to feedback page
+
+---
+
 ## Liscence
 
 - How is code liscenced
 
 
-
----
-
-
-Versions History
-22 May 2022
-  - Concept Documenent based on the Cousera Class Documentation and Usability for Cancer Informatics by John Hopkins University
-  - Added additional items and customized to become my standard template for creating Tool/App Documentation
- 
 
 ---
 _Add Tool/App Contact Info_
@@ -46,6 +56,6 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 4 July 2022 </center>
 
 

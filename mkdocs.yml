@@ -8,7 +8,6 @@ nav:
        - FAQ: Template - FAQ.md
        - Release Notes: Template - Release Notes.md
     - Code:
-        - Code Main Page: Template - Code Main Page.md
         - Code Page: Template - Code Documentation.md
         - Go To Source Code: https://github.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates
     - About:
@@ -17,9 +16,9 @@ nav:
     - Feedback:
         - Feedback: Template - Feedback.md
         - Go To Google Forms: https://www.google.com/forms/about/
-    - Template Only:
+    - Template Only (Remove When Done):
         - Keeping Up To Date: Template - Keeping Up To Date.md
-        - Checklist REMOVE When Done: Template -Checklist - Creating Software Documentation.md
+        - Checklist: Template -Checklist - Creating Software Documentation.md
 theme:
     name: readthedocs
     prev_next_buttons_location: both
