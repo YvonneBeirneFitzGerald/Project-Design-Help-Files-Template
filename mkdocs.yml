@@ -1,11 +1,12 @@
 site_name: Yvonne's Template For Tool & App User Documentation 
 nav:
     - Home: index.md
-    - Checklist REMOVE When Done: Template -Checklist - Creating Software Documentation.md
-    - Getting Started: Template - Getting Started.md
-    - How To: Template - How To.md
-    - Reference Guide: Template - Reference Guide.md
-    - FAQ: Template - FAQ.md
+    - Tool/App Usage:
+       - Getting Started: Template - Getting Started.md
+       - How To: Template - How To.md
+       - Reference Guide: Template - Reference Guide.md
+       - FAQ: Template - FAQ.md
+       - Release Notes: Template - Release Notes.md
     - Code:
         - Code Main Page: Template - Code Main Page.md
         - Code Page: Template - Code Documentation.md
@@ -13,9 +14,12 @@ nav:
     - About:
         - About: Template - About.md
         - Style Guide: Template - Style Guide.md
-    - Feedback: Template - Feedback.md
-    - Release Notes: Template - Release Notes.md
-    - Keeping Up To Date: Template - Keeping Up To Date.md
+    - Feedback:
+        - Feedback: Template - Feedback.md
+        - Go To Google Forms: https://www.google.com/forms/about/
+    - Template Only:
+        - Keeping Up To Date: Template - Keeping Up To Date.md
+        - Checklist REMOVE When Done: Template -Checklist - Creating Software Documentation.md
 theme:
     name: readthedocs
     prev_next_buttons_location: both
