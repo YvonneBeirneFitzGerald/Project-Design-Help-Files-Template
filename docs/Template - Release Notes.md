@@ -4,10 +4,10 @@
 
 ###### _Checklist For This Section:_  
 
-- [ ] Use this template to keep running list of updates
-- [ ] Options:
-    - [ ] All updates on one page or 
-    - [ ] single page for each update linked back to this page
+- Use this template to keep running list of updates
+- Options:
+    - All updates on one page or 
+    - Single page for each update linked back to this page
  
 
 ---

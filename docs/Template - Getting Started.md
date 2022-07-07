@@ -4,20 +4,20 @@
 
 ###### _Checklist For This Section:_  
 
-- [ ] Is easy to find: clearly visible on the main page.  
-- [ ] Provides the user with the introductory concepts of the Tool.  
-- [ ] Has clear steps for installation.  
-- [ ] Dependencies are made clear.  
-- [ ] Directs the user to the How-to Examples section.
-- [ ] Added images and icons so those who familiar with a different language can still follow
-- [ ] Added videos 
-- [ ] Code is presentated so that it can be copy and pasted
-- [ ] Shows how to get quick resutls
-- [ ] List of system requirements listed 
-- [ ] Tells How to
-	  [ ] Install Tools and Dependencies
-	  [ ] Run basic analysis with the Tool/App
-	  [ ] Obtain quick result
+- Is easy to find: clearly visible on the main page.  
+- Provides the user with the introductory concepts of the Tool.  
+- Has clear steps for installation.  
+- Dependencies are made clear.  
+- Directs the user to the How-to Examples section.
+- Added images and icons so those who familiar with a different language can still follow
+- Added videos 
+- Code is presentated so that it can be copy and pasted
+- Shows how to get quick resutls
+- List of system requirements listed 
+- Tells How to
+	  Install Tools and Dependencies
+	  Run basic analysis with the Tool/App
+	  Obtain quick result
 
 ---
 
