@@ -19,11 +19,7 @@
 	  Run basic analysis with the Tool/App
 	  Obtain quick result
 
----
 
-## Why {This Tool/App}?
-
-This tool is really awesome and serves this purpose.
 
 ---
 
@@ -35,7 +31,7 @@ This tool is really awesome and serves this purpose.
 
 ### _Steps for {This Operating System}_
 
-This tool requires this dependency to be installed first: [Some dependency](**** INSERT LINK HERE ****).
+This tool requires this dependency to be installed first: [Links to Get Dependency](**** INSERT LINK HERE ****).
 
 We can install that using this command:
 
@@ -75,9 +71,7 @@ If you did not get {such and such} response you may need to {do this other thing
 
 
 ## Quick Tutorial
-
-{This Tool/App} is based on these concepts.
-We can run the simplest form of this analysis by using this example data that we obtained from {where the data are from and a description about what they are}.
+- Show something simple that enduser interested in using
 
 ```
 A COMMAND TO GET EXAMPLE DATA
@@ -91,21 +85,19 @@ SOME COMMAND THAT RUNS A SIMPLE ANALYSIS
 
 Look at this really cool output result! You can get this for your own data too!
 
-[Some really cool output result](**** INSERT LINK HERE ****)
+Show some really cool output result
 
 
 ---
 
 
 ## Codebook - How-to Examples 
-
-Now that you have the basic concepts down here are more examples of how to run more analyses with {this Tool/App}.
-
-- [How to example](Template%20-%20How%20To.md)
+- Link to a hhow to page that takes End Useer to next step
+- [How to Page](Template%20-%20How%20To.md)
 
 
-## Accessiblity 
-- [Acccessiblity](Template - Accessibility Information.md)
+## Accessiblity Reference
+- [Acccessiblity Reference](Template - Accessibility Information.md)
 
 
 ---
@@ -116,7 +108,7 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 6 July 2022 </center>
 
 
   
