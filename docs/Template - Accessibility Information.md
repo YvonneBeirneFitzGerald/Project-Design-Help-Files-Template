@@ -13,7 +13,7 @@
 - Review [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 - Review [W3C Web For All](https://www.w3.org/TR/)
 
-###### Inclusion
+###### Diversity, Equity, and Inclusion (DEI) 
 - [Urban Institute - Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
 - [[Urban Institute - The Raciaal Equaity in Data Visualization Check List](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-checklist.pdf)  
 - [Tableau - Do No Harm](https://www.tableau.com/foundation/data-equity/do-no-harm)
