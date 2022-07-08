@@ -1,36 +1,40 @@
-# Tool/App User Documenation Template
+<h1 align="center">Tool/App User Documenation Template</h1>
 
-This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Tool/App does and links to help documentation such as Getting Started Guide, How To Page, and Reference Guides.
+---
+This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Tool/App does Why it is an awesome tool, and links to help documentation such as Getting Started Guide, How To Page, and Reference Guides.
 
 This document series is a template git repo that will allow for customization for your own Tool/App.  The concept was inspired by a Coursera and ITCR Documentation and Usability Course.
 
 
----
-
-## Why {This Tool/App}?
-
-This tool is really awesome and serves this purpose.
 
 ---
+
+###### _Checklist For This Section:_  
+
 ## The Why
-- ***** Add my persona info link here ****
-
 - The “why” of this Tool/App is obvious on the main page
 - The end user will be able to know from the Why if they need/ want your Tool/App
 - Says what need the Tool/App fulfills
 - Indicates what problem Tool/App solves
-- Tagline of Tool/App purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
+- Who is your Tool/App for
+- Tagline of Tool/App purpose brief [Use this as a quide](https://theYvonne.com/blog/secret-to-success-in-8-words)
 - Summary of Tool/App purpose brief
 - Avoid jargon
-- Example of a good ones 
-			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
-			- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.
+- Example of Good Why  
+		- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).  
+		- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.  
 
 ---
 
-## Understanding Your User Community
+## Why {This Tool/App}?
+- This tool is really awesome and serves this purpose.
+- Tag Line
+- Summary
+---
 
-- ***** Add my persona info link here ****
+
+## Understanding Your User Community
+Understaning your User Community allows you to understand and meet their needs
 
 - Write down what you know (or think you know) 
 - Identify any knowledge gaps you might have about your user community
@@ -40,31 +44,18 @@ This tool is really awesome and serves this purpose.
 
 ---
 
-## The Why
-- ***** Add my persona info link here ****
-
-- The “why” of this Tool/App is obvious on the main page
-- The end user will be able to know from the Why if they need/ want your Tool/App
-- Says what need the Tool/App fulfills
-- Indicates what problem Tool/App solves
-- Tagline of Tool/App purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
-- Summary of Tool/App purpose brief
-- Avoid jargon
-- Example of a good ones 
-			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
-			- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.
+## Using the Tool/App
+- [Getting Started Guide](Template - Getting Started.md)
+- [How To Reference](Template - How To.md)
+- [Reference Guide](Template - Reference Guide.md)
+- [FAQ](Template - FAQ.md)
+- [Acessibility Information](Template - Accessibility Information.md)
+- [Release Note](Template - Release Notes.md)
+- [Feedback](Template - Feedback.md) 
+    - note could also link directly to feedback form
 
 
----
 
----
-
-First and foremost, you should [explain the Why of your tool!](Link to chapter that describes this).
-
-For [Bioconductor specific guidance go here](./doc/bioconductor-guides).
-
-
-- links to how too , getting starteed , faq refeerence guide aand feedback
 ---
 _Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
@@ -73,5 +64,5 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 7 July 2022 </center>
 

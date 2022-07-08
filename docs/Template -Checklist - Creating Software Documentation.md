@@ -15,6 +15,7 @@ GitHub Side
 - UPDATE MY PAGE git hub project    
 - Create Project Image  
 - [Write up how to use MKdoc]( https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
+- Create a Checklist for end users oof these doc ie change this page to that
 
  
 CREATE BLOG POST     
