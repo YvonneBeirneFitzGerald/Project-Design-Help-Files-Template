@@ -6,7 +6,7 @@ This page is the first page for your end-users.  It is similar to a landing page
 This document series is a template git repo that will allow for customization for your own Tool/App.  The concept was inspired by a Coursera and ITCR Documentation and Usability Course.
 
 
-
+- [Check List For Using This Template](Template -Checklist - Creating Software Documentation)
 ---
 
 ###### _Checklist For This Section:_  
