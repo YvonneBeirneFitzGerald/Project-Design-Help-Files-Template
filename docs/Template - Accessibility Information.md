@@ -42,5 +42,5 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 3 July 2022 </center>
+<center>Lasted Update: 7 July 2022 </center>
 
