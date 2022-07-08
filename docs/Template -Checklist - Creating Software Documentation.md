@@ -40,7 +40,19 @@ CREATE TWITTER POST
    - about about the class  
 
 
+---
+### Notes
 
+# Tool-App-Documention-Templates
+Templates for creating user centric documentation.
+
+“It doesn’t matter how good your software is, because if the documentation is not good enough, people will not use it.“
+
+— Daniele Procida
+
+“Code tells you how; Comments tell you why.”
+
+— Jeff Atwood (aka Coding Horror)
 ---
 _Add Tool/App Contact Info_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
