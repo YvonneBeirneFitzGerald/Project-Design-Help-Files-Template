@@ -1,3 +1,23 @@
+
+What does this Doc need to say?
+
+- What it is
+- WHy it is important
+- How to use
+    - How use template
+    - How to use MkDoc
+    - Also can use in webpage
+- Why use
+- Who influecence
+
+
+
+
+---
+---
+---
+
+
 # Tool-App-Documention-Templates
 Templates for creating user centric documentation.
 
@@ -194,4 +214,4 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 7 July 2022 </center>
