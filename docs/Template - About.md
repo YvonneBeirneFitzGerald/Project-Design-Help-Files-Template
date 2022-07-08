@@ -39,8 +39,15 @@
     - Bio
     - Contact Info
 
+
+### Acknowledgements
+- Who do you need to acknowledge
+- Who do you need to thank
+- Any Sponsors
+
 ### Funding Info
-- How Funding
+- How Funding do you neeed to disclose
+- Any grants
 
 ### Price
 - Free?, Freeium?, Purchase? Subscription, Single Purchasee, Upgrades

@@ -57,7 +57,7 @@
     - [How to Write a Reproducible Example - Hadley Wickham](https://gist.github.com/hadley/270442#how-to-write-a-reproducible-example)  
     - [Making your code reproducible](https://methodsblog.com/2017/12/06/making-your-code-reproducible/)  
     - [How to Make a Great R Reproducible Example](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)  
-
+    
 
    - Good Examples How-To Pages:   
     - [DESeq2 has excellent vignettes](http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) Love, Huber, and Anders  

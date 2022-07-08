@@ -2,10 +2,15 @@
 
 ---
 
+
+
+
+## Getting Started Quick Guide
+
 ###### _Checklist For This Section:_  
 
 - Is easy to find: clearly visible on the main page.  
-- Provides the user with the introductory concepts of the Tool.  
+- Provides the user with the introductory concepts of the Tool/App.  
 - Has clear steps for installation.  
 - Dependencies are made clear.  
 - Directs the user to the How-to Examples section.
@@ -14,6 +19,9 @@
 - Code is presentated so that it can be copy and pasted
 - Shows how to get quick resutls
 - List of system requirements listed 
+- Confirm inclusivity in selections
+- Confirm consitently using sytle guidelines
+- Accessiblity Usage Implemented
 - Tells How to
 	  Install Tools and Dependencies
 	  Run basic analysis with the Tool/App
@@ -94,6 +102,7 @@ Show some really cool output result
 ## Codebook - How-to Examples 
 - Link to a hhow to page that takes End Useer to next step
 - [How to Page](Template%20-%20How%20To.md)
+- [Qiime2 Getting Started](https://docs.qiime2.org/2022.2/getting-started/)
 
 
 ## Accessiblity Reference

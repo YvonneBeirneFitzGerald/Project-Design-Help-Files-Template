@@ -26,7 +26,36 @@ This tool is really awesome and serves this purpose.
 			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
 			- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.
 
+---
 
+## Understanding Your User Community
+
+- ***** Add my persona info link here ****
+
+- Write down what you know (or think you know) 
+- Identify any knowledge gaps you might have about your user community
+- Identify who is your user community
+- Define what need the user has which is addressed by Tool/App
+- Define what skills it assumes your user has
+
+---
+
+## The Why
+- ***** Add my persona info link here ****
+
+- The “why” of this Tool/App is obvious on the main page
+- The end user will be able to know from the Why if they need/ want your Tool/App
+- Says what need the Tool/App fulfills
+- Indicates what problem Tool/App solves
+- Tagline of Tool/App purpose brief (Use this as a quide: https://theYvonne.com/blog/secret-to-success-in-8-words)
+- Summary of Tool/App purpose brief
+- Avoid jargon
+- Example of a good ones 
+			- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).
+			- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.
+
+
+---
 
 ---
 

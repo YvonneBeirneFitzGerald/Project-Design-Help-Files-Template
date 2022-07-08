@@ -14,6 +14,8 @@
 - Add an Issue Tracker for Documenation Fixes
 - Implement way to check for broken links
 - Update & Design 404 page if possible
+- Where is documention stored and what is plan for maintaining it?
+- Plan for keeping documentation up to date
 - Always pratice "UPDATE NOT DONE TO USER AND RELEASE NOTES DONE"
     - Does update made to the Tool/App Impact Documenation
     - Add reminders to Issue Templates to Update Documenations and Version Tags
@@ -28,6 +30,7 @@
 -   [GitHub action: URL checker](https://github.com/marketplace/actions/url-checker)
 - [6 Tools to Find Broken Links on Your Website](https://www.outlookstudios.com/tools-to-find-broken-links-on-your-website/) 
     - Like This Tool From Article Google Search Console  includes a broken link report option for monitoring websites for content with broken links
+
 
 ---
 _Add Tool/App Contact Info_
