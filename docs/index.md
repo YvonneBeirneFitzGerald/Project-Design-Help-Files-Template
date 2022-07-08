@@ -1,8 +1,8 @@
-# Template for Documentation
+# Tool/App User Documenation Template
 
-This repository is a template git repo that you can fill in with information about your own tool as you follow along with the [ITCR Documentation and Usability course](https://github.com/jhudsl/ITCR_Documentation_and_Usability).
+This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Tool/App does and links to help documentation such as Getting Started Guide, How To Page, and Reference Guides.
 
-This would be your landing page for your user!
+This document series is a template git repo that will allow for customization for your own Tool/App.  The concept was inspired by a Coursera and ITCR Documentation and Usability Course.
 
 
 ---

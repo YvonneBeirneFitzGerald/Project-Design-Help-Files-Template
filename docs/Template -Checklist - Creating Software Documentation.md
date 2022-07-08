@@ -6,6 +6,8 @@
 GitHub Side  
 - HOW TO SETUP AS TEMPLATE    
 - ADD HOW TO USE AS TEMPLATE TO MAIN READ.ME  
+- Check links
+- Check styles and H1 - H6 Levels is the same for each page
 - Update GitHub Pages  
 - Finish reviewing  
 - [Make MkDocs Page](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
