@@ -18,10 +18,10 @@ Template for creating user-centric user documentation. This Template is influenc
 ---
 
 
-What it is
-Why it is important
-Why use
-What is MkDoc
+What it is 
+Why it is important 
+Why use 
+What is MkDoc 
 
 
 
@@ -37,7 +37,7 @@ What is MkDoc
 - _Go to your computer's command line_
    - Clone the new repository localy.  [Additional info from GitHub on how to do.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
    - Goto to the root of the template on your computer
-   - Install MkDoc folloeing their [Instructions](https://www.mkdocs.org/#installation)
+   - Install MkDoc following their [Instructions](https://www.mkdocs.org/#installation)
    - To see a preview of your documents run `mkdocs serve` 
    - Customize this template by editing the files in the `docs/` folder to meeet your Tool/App needs
    - Adjust the navigation by editing the  `mkdocs.yml` file found in the root folder of the template
@@ -45,7 +45,7 @@ What is MkDoc
 
  
 - _Ready To Publish and Create Documenttation Website_
-    -  run [`mkdocs gh-deploy`](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
+    -  run `mkdocs gh-deploy` [Additional Information](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
     -  Visit the address to check out the results
     -  Add links in your Tool/App to link to the documenatation
 
