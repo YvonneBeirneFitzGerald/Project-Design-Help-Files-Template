@@ -6,8 +6,8 @@ Yvonne Beirnee FitzGerld
 
 
 
-<h4 align="center">“It doesn’t matter how good your software is,“</h4>
-<h4 align="center">“ because if the documentation is not good enough, people will not use it.“</h4>
+<h4 align="center">“It doesn’t matter how good your software is,</h4>
+<h4 align="center"> because if the documentation is not good enough, people will not use it.“</h4>
 <h6 align="center">— Daniele Procida</h6>
 
 ---
