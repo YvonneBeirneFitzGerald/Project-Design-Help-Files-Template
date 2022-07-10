@@ -61,7 +61,7 @@ What does this Doc need to say?
 
 ---
 
-<center>Yvonne M. Beine FitzGerald | (https://theyvonne.com) | hi[@]theyvonne.com </center>    
+<center>Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com </center>    
 
 
 <p>
