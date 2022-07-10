@@ -30,7 +30,7 @@ What is MkDoc
 <h2 align="center">How To Use This Repository</h2>
 
 - Click 'Use This Template' button on the right (Note: sometimes this button is colored green)
-- Name your copy of the Template a name related to your Tool/app 
+- Name your copy of the Template a name related to your Tool/App 
 
 
 
