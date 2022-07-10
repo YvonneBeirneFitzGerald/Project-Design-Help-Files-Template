@@ -45,7 +45,7 @@ What is MkDoc
 
  
 - _Ready To Publish and Create Documenttation Website_
-    -  run `mkdocs gh-deploy` [Additional Information](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
+    -  run `mkdocs gh-deploy` [(Additional Information from MkDocs)](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
     -  Visit the address to check out the results
     -  Add links in your Tool/App to link to the documenatation
 
