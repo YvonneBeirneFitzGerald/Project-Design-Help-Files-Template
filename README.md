@@ -1,4 +1,35 @@
 
+<h1 align="center">Tool/App User Documentation Template</h1>
+Yvonne Beirnee FitzGerld  
+
+10 July 2022
+
+
+
+<h4 align="center">“It doesn’t matter how good your software is,“</h4>
+<h4 align="center">“ because if the documentation is not good enough, people will not use it.“</h4>
+<h6 align="center">— Daniele Procida</h6>
+
+---
+
+
+
+Template for creating user-centric user documentation. This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) and is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses). Click for a preview of this Template.
+
+
+<h3 align="center">How To Use This Repository</h3>
+
+- Click 'Use This Template' button on the right (Note: sometimes this button is colored green)
+- Name your copy of the Template a name related to your Tool/app 
+
+_Go to your computer's command line_:
+
+
+
+
+
+
+
 What does this Doc need to say?
 
 - What it is
