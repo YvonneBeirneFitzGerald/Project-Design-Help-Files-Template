@@ -13,9 +13,27 @@
 
 Template for creating user-centric user documentation. This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) and is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses). Click for a preview of this Template.
 
+
+
 ---
 
-<h3 align="center">How To Use This Repository</h3>
+What does this Doc need to say?
+
+- What it is
+- WHy it is important
+- How to use
+    - How use template
+    - How to use MkDoc
+    - Also can use in webpage
+- Why use
+- Who influecence
+-  What is mk doc
+
+
+
+---
+
+<h2 align="center">How To Use This Repository</h2>
 
 - Click 'Use This Template' button on the right (Note: sometimes this button is colored green)
 - Name your copy of the Template a name related to your Tool/app 
@@ -41,22 +59,6 @@ Template for creating user-centric user documentation. This Template is influenc
 - _Updating Documentattion_
     - When editing documentaation continue to use `mkdocs serve` to see a preview and `mkdocs gh-deploy` to publish your changes to your website.
  
-
-
-
----
-
-What does this Doc need to say?
-
-- What it is
-- WHy it is important
-- How to use
-    - How use template
-    - How to use MkDoc
-    - Also can use in webpage
-- Why use
-- Who influecence
--  What is mk doc
 
 
 ---
