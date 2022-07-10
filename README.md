@@ -60,10 +60,8 @@ What does this Doc need to say?
 
 
 ---
+<h6 align="center">—>Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com</h6>
 
-<center>Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com </center>    
+<h6 align="center">—>Lasted Update: 10 July 2022 </h6> 
 
 
-<p>
-
-<center>Lasted Update: 10 July 2022 </center>
