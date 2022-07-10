@@ -17,17 +17,11 @@ Template for creating user-centric user documentation. This Template is influenc
 
 ---
 
-What does this Doc need to say?
 
-- What it is
-- WHy it is important
-- How to use
-    - How use template
-    - How to use MkDoc
-    - Also can use in webpage
-- Why use
-- Who influecence
--  What is mk doc
+What it is
+Why it is important
+Why use
+What is MkDoc
 
 
 
