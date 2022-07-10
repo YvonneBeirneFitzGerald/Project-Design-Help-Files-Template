@@ -16,6 +16,7 @@ Yvonne Beirnee FitzGerld
 
 Template for creating user-centric user documentation. This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) and is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses). Click for a preview of this Template.
 
+---
 
 <h3 align="center">How To Use This Repository</h3>
 
@@ -25,13 +26,13 @@ Template for creating user-centric user documentation. This Template is influenc
 
 
 - _Go to your computer's command line_
- - Clone the new repository localy.  [Additional info from GitHub on how to do.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
- - Goto to the root of the template on your computer
- - Install MkDoc folloeing their [Instructions](https://www.mkdocs.org/#installation)
- - To see a preview of your documents run `mkdocs serve` 
- - Customize this template by editing the files in the `docs/` folder to meeet your Tool/App needs
- - Adjust the navigation by editing the  `mkdocs.yml` file found in the root folder of the template
- - To preview the changes in your document run `mkdocs build` and then `mkdocs serve` 
+   - Clone the new repository localy.  [Additional info from GitHub on how to do.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+   - Goto to the root of the template on your computer
+   - Install MkDoc folloeing their [Instructions](https://www.mkdocs.org/#installation)
+   - To see a preview of your documents run `mkdocs serve` 
+   - Customize this template by editing the files in the `docs/` folder to meeet your Tool/App needs
+   - Adjust the navigation by editing the  `mkdocs.yml` file found in the root folder of the template
+   - To preview the changes in your document run `mkdocs build` and then `mkdocs serve` 
 
  
 - _Ready To Publish and Create Documenttation Website_
@@ -207,11 +208,7 @@ Template repository for ezcv integrated with flask
 
 See documentation for included themes for examples of each of the included themes
 ---
-_Add Tool/App Contact Info_
+
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
-_Add Links_
-
-<center>Terms | Privacy Policy | App/Tool </center>
-
-<center>Lasted Update: 7 July 2022 </center>
+<center>Lasted Update: 10 July 2022 </center>
