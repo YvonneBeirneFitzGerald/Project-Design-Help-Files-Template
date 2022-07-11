@@ -11,9 +11,7 @@ GitHub Side
 - Update GitHub Pages  
 - Finish reviewing  
 - [Make MkDocs Page](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
-- Check links  
-- UPDATE MY PAGE git hub project    
-- Create Project Image  
+- Check links   
 - [Write up how to use MKdoc]( https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
 - Create a Checklist for end users oof these doc ie change this page to that
 
