@@ -11,7 +11,7 @@
 
 
 
-Template for creating user-centric user documentation. This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) and is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses). Click for a preview of this Template.
+
 
 
 
@@ -54,6 +54,10 @@ MkDocs is an easy-to-use static HTML site generator that enables the creation of
  
  
  ---
+ 
+ <h2 align="center">Liscense</h2>
+ 
+The contents of this repository are available for use under the Creative Commons Attribution 4.0 [license](LISCENSE) You are free to adapt and share the work, but you must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -65,6 +69,8 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
+This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) and is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).  I added additonal pages to give a complete and function Project Document Template.  I also inclued information on each page to enable someone to quickly fill out the contents required for each page topic.  This information was inspired from the class menttioned as well as my own knowledge.   
 
 ---
 <h6 align="center">Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com</h6>
