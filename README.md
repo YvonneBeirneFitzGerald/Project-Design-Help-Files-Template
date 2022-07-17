@@ -40,7 +40,7 @@ MkDocs is an easy-to-use static HTML site generator that enables the creation of
    - To see a preview of your documents run `mkdocs serve` in the terminal at where the files are located.
    - Customize this template by editing the files in the `docs/` folder to meeet your Tool/App needs
    - Adjust the navigation by editing the  `mkdocs.yml` file found in the root folder of the template
-   - To preview the changes in your document run `mkdocs build` and then `mkdocs serve` 
+   - To preview the changes in your document run `mkdocs build` and then `mkdocs serve` in the terminal
 
  
 - _Ready To Publish and Create Documenttation Website_
