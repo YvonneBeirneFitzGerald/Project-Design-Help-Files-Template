@@ -1,4 +1,4 @@
-site_name: Yvonne's Template For Project End User Documentation 
+site_name: Template For Project End User Documentation 
 nav:
     - Home: index.md
     - Help:
