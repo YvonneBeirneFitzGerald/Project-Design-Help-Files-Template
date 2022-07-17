@@ -6,7 +6,7 @@
 
 - The user is given a clear avenue of where to direct questions or report bugs
 - Mechanism is in place to allow for you to respond to feedback
-- Do you want to run usablity testing interview, useful in design aand testing Tool/App
+- Do you want to run usablity testing interview, useful in design aand testing of the Project
 
 ---
 
@@ -28,7 +28,7 @@
 - How Handling Support
 - Do I want a send file button
 - Do I want to make restore point
-- Send to one person or an email for Tool/App that team has access
+- Send to one person or an email for Project that team has access
 - Do want the support to be in a forum or Slack/Discource like tool
 - Do you want to list service level agreement ie will hear back in week or 24 hr
 
@@ -38,7 +38,7 @@
 - [Example Google Form](https://docs.google.com/forms/d/1erbaH2k8cra0A2GB6W9Da0tqJCT41ZPlCmHXpKRcMLk/edit?usp=sharing)
 
 
-###### Questions From AAbove Link
+###### Questions From Above Link
 - How did you find out about our tool?  
 	- Short Text
 
