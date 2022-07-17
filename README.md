@@ -95,8 +95,11 @@ This Template is influenced/inspired by [The Documentation and Usability course]
 
 ---
 _Add Your Contact Information_
-<<<<<<< HEAD
-<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center> <br /> 
+
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center> <br />   
+  
+
+
 
 
 
