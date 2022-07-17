@@ -22,30 +22,30 @@
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-- [Color Heading 1](*** INSERT LINK *** )
-- [Color Heading 2](*** INSERT LINK *** )
-- [Color Heading 3](*** INSERT LINK *** )
-- [Color Heading 4](*** INSERT LINK *** )
-- [Color Heading 5](*** INSERT LINK *** )
-- [Color Heading 6](*** INSERT LINK *** )
+- Color Heading 1
+- Color Heading 2
+- Color Heading 3
+- Color Heading 4
+- Color Heading 5
+- Color Heading 6
 
-- [Color Accent](*** INSERT LINK *** )
-- [Color Background](*** INSERT LINK *** )
-- [Color Others](*** INSERT LINK *** )
+- Color Accent
+- Color Background
+- Color Others
 
 
 ### Font
 - note might just list to show what it looks like or add a link to where the text can be found
 
-- [Font Heading 1](*** INSERT LINK *** )
-- [Font Heading 2](*** INSERT LINK *** )
-- [Font Heading 3](*** INSERT LINK *** )
-- [Font Heading 4](*** INSERT LINK *** )
-- [Font Heading 5](*** INSERT LINK *** )
-- [Font Heading 6](*** INSERT LINK *** )
+- Font Heading 1
+- Font Heading 2
+- Font Heading 3
+- Font Heading 4
+- Font Heading 5
+- Font Heading 6
 
-- [Font Accent](*** INSERT LINK *** )
-- [Font Text](*** INSERT LINK *** )
+- Font Accent
+- Font Text
 
 ### Define Linespacing and Letterspacing 
   - Linespacing:

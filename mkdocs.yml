@@ -18,7 +18,6 @@ nav:
         - Go To Source Code: https://github.com/YvonneBeirneFitzGerald/Tool-App-Documention-Templates  
     - Template Only (Remove When Done):
         - Keeping Up To Date: Template - Keeping Up To Date.md
-        - Checklist: Template -Checklist - Creating Software Documentation.md
 theme:
     name: readthedocs
     prev_next_buttons_location: both

@@ -48,7 +48,6 @@ _Checklist For This Section:_
 
 
 ---
----
 _Add Your Contact Information_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 

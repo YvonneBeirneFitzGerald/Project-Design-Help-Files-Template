@@ -35,7 +35,7 @@
 
 ### _Steps for {This Operating System}_
 
-This tool requires this dependency to be installed first: [Links to Get Dependency TO DO](**** INSERT LINK HERE ****).
+This tool requires this dependency to be installed first: [Links to Get Dependency TO DO].
 
 We can install that using this command:
 
@@ -58,7 +58,7 @@ SOME BASH COMMAND TO TEST IF IT INSTALLED
 
 If you did not get {such and such} response you may need to {do this other thing}.
 
-[Screenshot of reassurance](**** INSERT LINK HERE ****)
+Add Screenshot of reassurance]
 
 
 

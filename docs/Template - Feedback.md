@@ -16,7 +16,7 @@
 - Contact Form In Tool/App
 - Contact Form On Website
 - Have page in user documnentation or have the link in navigation go to google form in yml
-- Direct users to file a [GitHub issue](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)
+- Direct users to file a such as [GitHub issue](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)
 - Slack channel
 - Discourse channel
 
