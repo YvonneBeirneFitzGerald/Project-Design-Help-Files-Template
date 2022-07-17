@@ -5,16 +5,16 @@
 - Use this page to give credit and provide information
     - Information about the team who created
     - Who is Maintianing
-    - Who is contributing
+    - Who is Contributing
     - WHo is Funding
     - Pricing
     - Style Guide / Branding info
     - Where to place credits
-    - Other Apps
+    - Other Projects by the team for marketing purpose
 ---
 
 ### Tool/App
-- Summary of the apps itself
+- Summary of the Project 
 
 
 ### Team
@@ -34,36 +34,43 @@
     - Bio
     - Contact Info
 - ##### Lab
-   - Names
+    - Names
     - Picture
     - Bio
     - Contact Info
 
 
 ### Acknowledgements
-- Who do you need to acknowledge
-- Who do you need to thank
+- Who do you need to acknowledge and thank
+- Any grant support
+- Any liscence acknowlegements
 - Any Sponsors
+- Mom, Dad, Spouse, Kids, Testers, Labmates, Coffee Shop, etc
 
 ### Funding Info
-- How Funding do you neeed to disclose
-- Any grants
+- What funding do you neeed to disclose
+- How about grants
+- Other people
 
 ### Price
 - Free?, Freeium?, Purchase? Subscription, Single Purchasee, Upgrades
+- If free is this forever
 
 ### Style Guide (Brand Book)
 - [Style Guide / Brand Book](Template - Style Guide.md)
-- A Style Guide also can be known as a brand boook is something useful for the creators to estaablish prior to workin on a project
-- This may be something that is not shared with the end user or maybe some parts are
+- A Style Guide also can be known as a brand book is something useful for the creators to establish prior to working on a project
+- This may be something that is not shared with the end user or maybe some parts are shared 
 
 ### Any Other Credits
 
 ### Liscence
 
-- How is code liscenced
+- How is code liscenced to users
+- Any acknowledgements to other liscene products/
 
 ### Other Apps/Tool by Creator
+
+- Share other products create to market other tools to the community
 
 
 ---
@@ -74,5 +81,5 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 3 July 2022 </center>
+<center>Lasted Update: 17 July 2022 </center>
 
