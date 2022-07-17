@@ -5,19 +5,19 @@
 
 ###### _Checklist For This Section:_  
 
-- Note to self page 
-- When first version of Tool/App Documenation is completed Remove this page from yml and delete page in doc directory
-- Use Version Control for Tool/App AND Documenation  ie GitHub
-- Consider having documentation and tool/app in same place
+- This is a note to self page and should be removed from navigation (YML file) when done
+- When first version of Project Documenation is completed Remove this page from yml and delete page in doc directory
+- Use Version Control for the Project AND Documenation  ie GitHub
+- Consider having documentation and Project version control in the same place
 - Track Documenation issues same way track software task
 - Add an Issue Tracker for Software Fixes
 - Add an Issue Tracker for Documenation Fixes
-- Implement way to check for broken links
+- Implement ways to check for broken links
 - Update & Design 404 page if possible
 - Where is documention stored and what is plan for maintaining it?
 - Plan for keeping documentation up to date
-- Always pratice "UPDATE NOT DONE TO USER AND RELEASE NOTES DONE"
-    - Does update made to the Tool/App Impact Documenation
+- Always pratice "UPDATE NOT DONE  UNTIL USER AND RELEASE NOTES ARE DONE"
+    - Does update made to the Project Impact Documenation - then update documenation
     - Add reminders to Issue Templates to Update Documenations and Version Tags
 
 
@@ -40,5 +40,5 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 17 July 2022 </center>
 
