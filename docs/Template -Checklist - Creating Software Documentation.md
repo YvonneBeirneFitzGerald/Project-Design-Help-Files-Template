@@ -5,11 +5,6 @@
 
 GitHub Side  
 - HOW TO SETUP AS TEMPLATE    
-- Check links
-- Check styles and H1 - H6 Levels is the same for each page
-- Change to Project Doc
-- Update GitHub Pages and Visual Studio Code
-- Finish reviewing  
 - Once GitHub Pages are now Https update my main website
 - Remove their repo from my repo list
 
