@@ -6,9 +6,9 @@
 ## General
 
 - It is useful to have this document for yourself, it is your call if inclued in public documenation
-- If others are collaborating or maintaining the Tool/App this is something useful for everyone
+- If others are collaborating or maintaining the Project this is something useful for everyone
 - Good to have this setup at the begining of the project
-- This page is linked from the About pagee. Leaving it in the navigation so it is up front when first using this template.  Whend Tool/App/Doc done this mighht be removed from the yml file
+- This page is linked from the About page. Leaving it in the navigation so it is up front when first using this template.  When project is done this mighht be removed from the naviaation (yml) file
 
 ---
 
@@ -60,15 +60,15 @@
   - Add any credit information
 
 ### Confirm inclusivity in diversity and accessibility
-  - Review Tool/App/Site follow inclusivity guidelines 
+  - Review Project following inclusivity and acceesibility guidelines 
   - Accessibility Useage included in the Getting Started Guide, Reference Guide or maybe a separte page on accessiblity
-  - Explain how this was done so other making a Tool/App after you or maintaining the Tool/App knows how this was done
+  - Explain how this was done so other making a Project after you or maintaining the Project knows how this was done
   - Good Resources:
     - [Building For Everyone](https://design.google/library/building-for-everyone/#:~:text=On%20our%20diversity%20and%20inclusion,of%20the%20users%20we%20serve.%E2%80%9D)
     - [Acccesiblity Google](https://www.google.com/accessibility/)
 
 ### Confirm consitently using sytle guidelines  
-  - Checck the Tool/App and User Document to ensure using Stlye Guide
+  - Checck the Project and User Document to ensure using Stlye Guide
 
 ### Theme
   - What theme did you use to create site, if you used
@@ -83,9 +83,9 @@
 
 
 
-### How was Tool/App Build/Designed 
-  - Lanuage use to build Tool/App 
-  - Tools used too build Tool/App
+### How was the Project Build/Designed 
+  - Lanuage use to build the Project 
+  - Tools used too build the Project
   - Any coding style info or reguirements
 
 
@@ -98,6 +98,6 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 3 July 2022 </center>
+<center>Lasted Update: 17 July 2022 </center>
 
 
