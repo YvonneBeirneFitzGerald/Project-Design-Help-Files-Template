@@ -1,5 +1,5 @@
 
-<h1 align="center">Tool/App User Documentation Template</h1>
+<h1 align="center">Project End User Documentation Template</h1>
 
 
 <h4 align="center">“It doesn’t matter how good your software is,</h4>
