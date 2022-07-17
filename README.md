@@ -95,16 +95,14 @@ This Template is influenced/inspired by [The Documentation and Usability course]
 
 ---
 _Add Your Contact Information_
-<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>       
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>   
 
-  
+<br />
 
 _Add Links To Your Info_    
-   
-   
+      
 <center>Terms | Privacy Policy | Project </center>   
-   
-   
+    
 
 <center>Lasted Update: 17 July 2022 </center>
 
