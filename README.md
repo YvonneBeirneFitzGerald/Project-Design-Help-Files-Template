@@ -8,6 +8,12 @@
 <h6 align="center">— Daniele Procida</h6>
 
 ---
+<h2 align="center">Why Create Project Documentation?</h2>
+
+Creating amazing user documentation for a Project is critical to the project's success.   With good user documentation, a tool becomes easier to use, increases the chance of mass adaption and citation, reduces the support burden for the developer, creates raving fans, and increases the professional feel of the project.  All these benefits can lead to increase funding and opportunities for the developers and happy users.  Good user documentation also leads to better code that is easier to maintain.  Unfortunately, user documentation is one part of a project that many developers skip or ignore, leaving their users to struggle to implement the new Tool/App completely—creating lost opportunities for both the end user and the developers.
+
+
+Developing excellent user documentation for a Project/Tool/App is streamlined using this predefined Template.   This Template walks one through the process of creating fantastic user documentation one page at a time.  The pages in the Template cover a specific topic of user documentation, formating options, notes, and points to ponder.  The Template then quickly converts to a website using MkDocs.  Or you can use this Template as guidance for your own approach.  
 
 
 
