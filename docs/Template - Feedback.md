@@ -129,13 +129,14 @@ Summarized from [Usability Testing: How to Do It & Its Benefits for Business](h
 
 
 ---
-_Add Tool/App Contact Info_
+_Add Your Contact Information_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
-_Add Links_
+_Add Links To Your Info_
 
-<center>Terms | Privacy Policy | App/Tool </center>
+<center>Terms | Privacy Policy | Project </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 17 July 2022 </center>
+
 
  

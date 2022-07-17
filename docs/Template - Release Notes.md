@@ -1,4 +1,4 @@
-<h1 align="center">App/Tool Release Notes</h1>
+<h1 align="center">Project Release Notes</h1>
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-# Tool/App Name v 2.2.0
+# Project v 2.2.0
 
 **Shinny New Things**    
 - Add New Features Here  
@@ -25,7 +25,7 @@
 
 --- 
 
-# Tool Name/App v 1.2.0  
+# Project 1.2.0  
 
 **Shinny New Things**  
 - Add New Features Here  
@@ -40,14 +40,14 @@
 
 
 ---
-_Add Tool/App Contact Info_
+_Add Your Contact Information_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
-_Add Links_
+_Add Links To Your Info_
 
-<center>Terms | Privacy Policy | App/Tool </center>
+<center>Terms | Privacy Policy | Project </center>
 
-<center>Lasted Update: 26 June 2022 </center>
+<center>Lasted Update: 17 July 2022 </center>
 
 
 

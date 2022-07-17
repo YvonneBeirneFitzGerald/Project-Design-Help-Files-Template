@@ -94,8 +94,12 @@ This Template is influenced/inspired by [The Documentation and Usability course]
  
 
 ---
-<h6 align="center">Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com</h6>
+_Add Your Contact Information_
+<center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
-<h6 align="center">Lasted Update: 17 July 2022 </h6> 
+_Add Links To Your Info_
 
+<center>Terms | Privacy Policy | Project </center>
+
+<center>Lasted Update: 17 July 2022 </center>
 

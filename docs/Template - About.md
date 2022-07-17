@@ -1,4 +1,4 @@
-# About
+<h1 align="center">About</h1>
 
 
 ###### _Checklist For This Section:_  
@@ -74,12 +74,13 @@
 
 
 ---
-_Add Tool/App Contact Info_
+_Add Your Contact Information_
 <center>Yvonne M. Beine FitzGerald | [theYvonne.com](https://theyvonne.com) | hi[@]theyvonne.com </center>  
 
-_Add Links_
+_Add Links To Your Info_
 
-<center>Terms | Privacy Policy | App/Tool </center>
+<center>Terms | Privacy Policy | Project </center>
 
 <center>Lasted Update: 17 July 2022 </center>
+
 
