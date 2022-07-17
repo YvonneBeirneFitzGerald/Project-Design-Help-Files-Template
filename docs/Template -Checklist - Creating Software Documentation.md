@@ -15,7 +15,6 @@ GitHub Side
 - [Make MkDocs Page](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
 - [Write up how to use MKdoc]( https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
 - Create a Checklist for end users oof these doc ie change this page to that
-- Check that the Github pages are now https
 - Once GitHub Pages are now Https update main website
 - To Read me add next step which is create a document template for cleaning and preping data
 - Remove their repo from my repo list
