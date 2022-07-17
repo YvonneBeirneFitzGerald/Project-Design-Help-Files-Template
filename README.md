@@ -70,7 +70,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/) and is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).  I added additonal pages to give a complete and functional Project Document Template.  I also inclued information on each page to enable someone to quickly fill out the contents required for each page topic.  This page information was inspired from the class menttioned as well as my own knowledge.   
+This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/), which is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).  I added additonal pages to give a complete and functional Project Document Template.  I also inclued information on each page to enable someone to quickly fill out the contents required for each page topic.  This page information was inspired from the class menttioned as well as my own knowledge.   
 
 ---
 <h6 align="center">Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com</h6>
