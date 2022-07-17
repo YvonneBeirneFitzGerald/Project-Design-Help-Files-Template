@@ -18,6 +18,7 @@ GitHub Side
 - Check that the Github pages are now https
 - Once GitHub Pages are now Https update main website
 - To Read me add next step which is create a document template for cleaning and preping data
+- Remove their repo from my repo list
 
  
 CREATE BLOG POST     
