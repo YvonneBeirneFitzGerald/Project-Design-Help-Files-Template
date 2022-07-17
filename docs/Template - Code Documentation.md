@@ -15,8 +15,7 @@ _Checklist For This Section:_
 
 ## General
 - Do you want to share source code
-- Do you want to say what langauge  it is in
-- What Lanuage
+- Do you want to say what langauge was useed in the projeect's creation
 
 
 ---
@@ -56,6 +55,6 @@ _Add Links_
 
 <center>Terms | Privacy Policy | App/Tool </center>
 
-<center>Lasted Update: 4 July 2022 </center>
+<center>Lasted Update: 17 July 2022 </center>
 
 
