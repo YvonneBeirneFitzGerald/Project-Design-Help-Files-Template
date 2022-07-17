@@ -26,7 +26,7 @@ Developing excellent user documentation for a Project/Tool/App is streamlined us
 ---
 <h2 align="center">What Is MkDocs</h2>
 
-[MkDocs](https://www.mkdocs.org/)is an easy-to-use static HTML site generator that enables the creation of Project Documentation for end users quickly. It is easy to customize the project documentation as well as the look and feel of the site. The documentation source files use Markdown to format the documentation pages. Configuration of the site uses a YAML configuration file. These combined processes enable the previewing of the site as you work. In addition, it comes with a built-in site search function, allowing the end user to find information faster. Sites built using MkDocs can be hosted anywhere, including GitHub pages and Amazon S3.   
+[MkDocs](https://www.mkdocs.org/) is an easy-to-use static HTML site generator that enables the creation of Project Documentation for end users quickly. It is easy to customize the project documentation as well as the look and feel of the site. The documentation source files use Markdown to format the documentation pages. Configuration of the site uses a YAML configuration file. These combined processes enable the previewing of the site as you work. In addition, it comes with a built-in site search function, allowing the end user to find information faster. Sites built using MkDocs can be hosted anywhere, including GitHub pages and Amazon S3.   
 
 
 
