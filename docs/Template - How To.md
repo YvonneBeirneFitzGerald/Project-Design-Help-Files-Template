@@ -13,7 +13,7 @@
 - Demonstrates a _reproducible_ example
   - An example dataset needed is provided and introduced
   - No additional packages & software is required beyond what is listed on the [Getting Started](Template - Getting Started.md) Page
-- Demonstrates step-by-step the most common users for your Tool/App
+- Demonstrates step-by-step the most common users for your Project
 - Example code write with teaching in mind
 - Shows what additional analysis might look like
 - Create examples like one would recipes in a cookbook
@@ -28,14 +28,14 @@
 ##### Every Step Defined
 - Every step of the process should be given, don't overloook the basic
 - Give the exact code needed especially for command-line tools
-- Screenshot or video tutorial when the Tool/App is a GUI
+- Screenshot or video tutorial when the Project is a GUI
 
 ##### Share The Data
 - If data is needed to run the example, provide it
 - If the data needs to be in a certain format make sure this format is listed and defined 
    - Add a converting tool whenever possible
 
-##### Example Code Goal Illustrates How To Use The Tool/App
+##### Example Code Goal Illustrates How To Use The Project
 
 - Example Code is written to prioritize clarity over brevity
 - Should have comments
@@ -49,7 +49,7 @@
 - How To Sections are geared toward intermediate user who want to know more
 - Can move someone from moderate interest to raving fan
 - Create examples like one would recipes in a cookbook
-- Used to show off best use cases for the Tool/App
+- Used to show off best use cases for the Project
 
 
 ##### Good Resources:

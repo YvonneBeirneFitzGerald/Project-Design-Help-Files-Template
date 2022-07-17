@@ -5,10 +5,10 @@
 ##### _Checklist For This Section:_  
 
 ###### Accessiblity
-- Review How Tool/App can work with someone with seeing difficulties  
-- Review How Tool/App can work with someone with hearing difficulties, if using sound  
-- Revieww [Go0le Accessiblity Info](https://www.google.com/accessibility/)  
-- Revieew [Google Accesiblity Info for Develoopers](https://www.google.com/accessibility/for-developers/)  
+- Review How Project can work with someone with seeing difficulties  
+- Review How Project can work with someone with hearing difficulties, if using sound  
+- Review [Google Accessiblity Info](https://www.google.com/accessibility/)  
+- Review [Google Accesiblity Info for Develoopers](https://www.google.com/accessibility/for-developers/)  
 - Review [Google Acceesiblity For Education](https://edu.google.com/intl/ALL_us/why-google/accessibility/)
 - Review [Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
 - Review [W3C Web For All](https://www.w3.org/TR/)
@@ -24,8 +24,8 @@
 
 ##### Things To Consider
 
-- Ensure Tool/App can be used by all based technology guide lines
-- Ensure that Tool/App does not contain bias or provide bias results
+- Ensure Project can be used by all, based technology guide lines
+- Ensure Project does not contain bias or provide bias results
 
 
 

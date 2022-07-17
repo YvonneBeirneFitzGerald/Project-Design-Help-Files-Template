@@ -8,7 +8,7 @@
     - Who is Contributing
     - WHo is Funding
     - Pricing
-    - Style Guide / Branding info
+    - Style Guide/Branding info
     - Where to place credits
     - Other Projects by the team for marketing purpose
 ---

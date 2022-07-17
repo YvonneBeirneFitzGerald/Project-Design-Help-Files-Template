@@ -6,13 +6,13 @@
 
 - Review Getting Starteed Guide and Reference Guide - Do you need a FAQ
 - To improve organization use headers and group similar questions
-- If adding FAQ focus on useful features, what makes Tool/App Cool, User Questions
+- If adding FAQ focus on useful features, what makes Project Cool, User Questions
 	- Note this items should also be covered in Getting Started Guide and Reference
 - Items to possible inclued
 	- FAQ
 	- Cheatsheets
 	- Videos
-	- Forumn
+	- Forum
 	- Knowledge Base
 
 ---
@@ -21,14 +21,13 @@
 ##### Things To Consider
 
 ###### FAQ
-- Do you really need?
-- This information should be in Getting Start aand Reference Guide
-- A stand alone page
+- Do you really need as a stand alone page?
+    -  This information should be in Getting Start aand Reference Guide
 - Use Headers to enable scanning (H1 H2 H3 etc)
-- Group Quesstions and Tops
-- Are they really frequently asked questions
+- Group Quesstions and Topics
+- Are they really frequently asked questions or just something you want to highlight
 - Use as a last resources
-- Use the lanuage of your end user
+- Use the lanuage of your end user when writting  - avoid jargon
 - Use visuals when possible
 - Inclued the ability to search
 - Keep it focused
@@ -37,7 +36,7 @@
 
 ###### Cheatsheets
 - Cheatsheets should be added to Getting Started and Reference Guide
-- If Tool/App has items that are handy but tough to keep track of a cheatsheet may be helpful
+- If Project has items that are handy but tough to keep track of a cheatsheet may be helpful
 - Cheatsheets are a short reference guide 1 -2 pages that looks  pleasing
 - Highlights the most commonly used/most helpful items
 - Good Resources:
@@ -47,10 +46,20 @@
 
 
 ###### Videos
-- If Tool/App has a GUI can be very useful
+- If Project has a GUI can be very useful
 - Not scannable, so don't make main source of info
 - Useful for introducing basic concepts
-- Users who like visual typically like video, but not all users are visual learneers
+- Users who like visual typically like video, but not all users are visual learners 
+	- Learning Sytles 
+		- Visual
+		- Auditory
+		- Kinesthetic
+		- Reading/Writing
+		- Logical/Analytical 
+		- Social/Linguistic/Peer Group
+		- Solitary 
+		
+
 - Good Resources:
 	-  [Creating Instructional Videos](https://www.techsmith.com/blog/instructional-videos/) 
 	-  [7 Great Tools for Creating Your Own Instructional Videos](https://helpdeskgeek.com/free-tools-review/7-great-tools-for-creating-your-own-video-tutorials/)
@@ -59,7 +68,7 @@
 
 ###### Forums/Knowledge Base
 - A good way to keep public records of questions and answers
-- Forums are mostly useful for Tools/Apps with a big user base or having trouble keeting up with inquires
+- Forums are mostly useful for Projects with a big user base or having trouble keeting up with inquires
 - Allows advanced users to help answer questions of new users 
 - Make this Knowledge Base searchable 
 - Can host on your own or use a slack channel or discourse or other options

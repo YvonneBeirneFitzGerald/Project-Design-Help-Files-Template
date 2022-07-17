@@ -1,5 +1,5 @@
 <h1 align="center">Style Guide</h1>
-<p align="center">(Also could be called Brand Book)</p>
+<p align="center">(Also could be called a Brand Book)</p>
 
 ---
 

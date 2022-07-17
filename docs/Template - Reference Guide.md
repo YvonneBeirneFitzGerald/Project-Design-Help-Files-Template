@@ -6,15 +6,14 @@
 
 - Is easy to find: clearly visible on the main page
 - Is searchable or at least visually easily able to be scanned
-- All items are described in clear language
-- Provide items in a clear, no-jargon language
+- All items are described in clear language, no-jargon language
 - Options and defaults are explained and linked to more information where appropriate
-- Think of as a dictionary for Tool/App
+- Think of as a dictionary/Cookbook for Prooject
 - Meant to be easily searchable not to be read front to back
 - Try to make terms searchable
 - Try to make it easy to scan
 - Is every single thing covered?
-	- Terms
+	-  Terms
 	-  Functions
 	-  Arguments
 	-  Parameters
@@ -31,12 +30,12 @@
 - Consistent Entry Format
 	- Consistency is key
 	- All entries in the reference guide should have the same info in, the same order
-	- Note where the package is ending up might define the format 
+	- Note: Where the package is ending up might define the format 
 - Data Formats Defined
-	- Tool/App should use data formats that are common
+	- Prooject should use data formats that are common
 	- If using non-standard data formats then the document needs to explain the specific requirements 
 		- Include files for positive/negative/example
-		- Have a tool that the end-user can convert the standard format into your format, even better have this be part of the Tool/App
+		- Have a tool that the end-user can convert the standard format into your format, even better have this be part of the Project
 	- Good Example:
 		- [GSEA has great descriptions of their data formats](https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideTEXT.htm#_Loading_Data) with examples of what the data formats look like
 

@@ -1,37 +1,33 @@
-<h1 align="center">Getting Started Guide</h1>
+<h1 align="center">Getting Started</h1>
 
 ---
 
 
-
-
-## Getting Started Quick Guide
-
 ###### _Checklist For This Section:_  
 
-- Is easy to find: clearly visible on the main page.  
-- Provides the user with the introductory concepts of the Tool/App.  
-- Has clear steps for installation.  
-- Dependencies are made clear.  
-- Directs the user to the How-to Examples section.
+- Is easy to find: clearly visible on the main page
+- Provides the user with the introductory concepts of the Project
+- Has clear steps for installation 
+- Dependencies are made clear
+- Directs the user to the [How-to Examples ](Template - How To.md)section
 - Added images and icons so those who familiar with a different language can still follow
 - Added videos 
 - Code is presentated so that it can be copy and pasted
 - Shows how to get quick resutls
 - List of system requirements listed 
-- Confirm inclusivity in selections
+- [Confirm inclusivity in selections](Template - Accessibility Information.md)
 - Confirm consitently using sytle guidelines
-- Accessiblity Usage Implemented
+- [Accessiblity Usage Implemented](Template - Accessibility Information.md)
 - Tells How to
 	  Install Tools and Dependencies
-	  Run basic analysis with the Tool/App
+	  Run basic analysis with the Project
 	  Obtain quick result
 
 
 
 ---
 
-## Installation Steps {From command line}
+## Installation Steps From Command Line
 
 
 
@@ -39,7 +35,7 @@
 
 ### _Steps for {This Operating System}_
 
-This tool requires this dependency to be installed first: [Links to Get Dependency](**** INSERT LINK HERE ****).
+This tool requires this dependency to be installed first: [Links to Get Dependency TO DO](**** INSERT LINK HERE ****).
 
 We can install that using this command:
 
@@ -100,9 +96,9 @@ Show some really cool output result
 
 
 ## Codebook - How-to Examples 
-- Link to a hhow to page that takes End Useer to next step
-- [How to Page](Template%20-%20How%20To.md)
-- [Qiime2 Getting Started](https://docs.qiime2.org/2022.2/getting-started/)
+Link to a how to page that takes End Useer to next step
+- [How to Page Within This Document](Template%20-%20How%20To.md)
+- Nice Example: [Qiime2 Getting Started](https://docs.qiime2.org/2022.2/getting-started/)
 
 
 ## Accessiblity Reference

@@ -5,7 +5,7 @@
 
 ###### _Checklist For This Section:_  
 
-- This is a note to self page and should be removed from navigation (YML file) when done
+- This is a note to self page and should be removed from navigation (mkdocs.yml found in the root) when done
 - When first version of Project Documenation is completed Remove this page from yml and delete page in doc directory
 - Use Version Control for the Project AND Documenation  ie GitHub
 - Consider having documentation and Project version control in the same place
