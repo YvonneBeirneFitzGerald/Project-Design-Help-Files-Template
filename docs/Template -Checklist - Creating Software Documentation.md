@@ -10,8 +10,6 @@ GitHub Side
 - Change to Project Doc
 - Update GitHub Pages and Visual Studio Code
 - Finish reviewing  
-- [Make MkDocs Page](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
-- [Write up how to use MKdoc]( https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
 - Once GitHub Pages are now Https update my main website
 - Remove their repo from my repo list
 
