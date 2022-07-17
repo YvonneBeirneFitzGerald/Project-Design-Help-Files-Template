@@ -37,7 +37,7 @@ MkDocs is an easy-to-use static HTML site generator that enables the creation of
    - Clone the new repository localy.  [Additional info from GitHub on how to do.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
    - Goto to the root of the template on your computer
    - Install MkDoc following their [Instructions](https://www.mkdocs.org/#installation)
-   - To see a preview of your documents run `mkdocs serve` 
+   - To see a preview of your documents run `mkdocs serve` in the terminal at where the files are located.
    - Customize this template by editing the files in the `docs/` folder to meeet your Tool/App needs
    - Adjust the navigation by editing the  `mkdocs.yml` file found in the root folder of the template
    - To preview the changes in your document run `mkdocs build` and then `mkdocs serve` 
