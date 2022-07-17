@@ -25,7 +25,7 @@ This document is a template git repo that will allow for customization for your 
 
 ---
 
-## Why This Projecct?
+## Why This Project?
 - This tool is really awesome and serves this purpose.
 - Tag Line
 - Summary
