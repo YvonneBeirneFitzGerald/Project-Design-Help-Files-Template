@@ -16,12 +16,9 @@ Template for creating user-centric user documentation. This Template is influenc
 
 
 ---
+<h2 align="center">What Is MkDocs</h2>
 
-
-What it is 
-Why it is important 
-Why use 
-What is MkDoc 
+MkDocs is an easy-to-use static HTML site generator that enables the creation of Project Documentation for end users quickly. The documentation source files use Markdown to format the documentation pages. Configuration of the site uses a YAML configuration file. In addition, it comes with a built-in site search function, enabling the end user to find information faster. Sites built using MkDocs can be hosted anywhere, including GitHub pages and Amazon S3.
 
 
 
