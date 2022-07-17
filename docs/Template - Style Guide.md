@@ -83,7 +83,7 @@
 
 
 
-### How was the Project Build/Designed 
+### How was the Project Built/Designed 
   - Lanuage use to build the Project 
   - Tools used too build the Project
   - Any coding style info or reguirements
