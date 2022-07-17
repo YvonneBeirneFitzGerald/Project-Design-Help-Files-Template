@@ -10,6 +10,8 @@
 ---
 <h2 align="center">Why Create Project Documentation?</h2>
 
+Click to see a preview of this Template. 
+
 Creating amazing user documentation for a Project is critical to the project's success.   With good user documentation, a tool becomes easier to use, increases the chance of mass adaption and citation, reduces the support burden for the developer, creates raving fans, and increases the professional feel of the project.  All these benefits can lead to increase funding and opportunities for the developers and happy users.  Good user documentation also leads to better code that is easier to maintain.  Unfortunately, user documentation is one part of a project that many developers skip or ignore, leaving their users to struggle to implement the new Tool/App completely—creating lost opportunities for both the end user and the developers.
 
 
@@ -24,7 +26,7 @@ Developing excellent user documentation for a Project/Tool/App is streamlined us
 ---
 <h2 align="center">What Is MkDocs</h2>
 
-MkDocs is an easy-to-use static HTML site generator that enables the creation of Project Documentation for end users quickly. It is easy to customize the project documentation as well as the look and feel of the site. The documentation source files use Markdown to format the documentation pages. Configuration of the site uses a YAML configuration file. These combined processes enable the previewing of the site as you work. In addition, it comes with a built-in site search function, allowing the end user to find information faster. Sites built using MkDocs can be hosted anywhere, including GitHub pages and Amazon S3.   
+[MkDocs](https://www.mkdocs.org/)is an easy-to-use static HTML site generator that enables the creation of Project Documentation for end users quickly. It is easy to customize the project documentation as well as the look and feel of the site. The documentation source files use Markdown to format the documentation pages. Configuration of the site uses a YAML configuration file. These combined processes enable the previewing of the site as you work. In addition, it comes with a built-in site search function, allowing the end user to find information faster. Sites built using MkDocs can be hosted anywhere, including GitHub pages and Amazon S3.   
 
 
 
@@ -77,6 +79,19 @@ This work is licensed under a
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 This Template is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/), which is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).  I added additonal pages to give a complete and functional Project Document Template.  I also inclued information on each page to enable someone to quickly fill out the contents required for each page topic.  This page information was inspired from the class mentioned as well as my own knowledge.   
+
+---
+<h2 align="center">References</h2>
+
+
+- [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/)
+- [How to Createe A Document Websitee with MkDocs](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
+- [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses)
+- [MkDocs.org](https://www.mkdocs.org/)
+
+
+
+ 
 
 ---
 <h6 align="center">Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com</h6>
