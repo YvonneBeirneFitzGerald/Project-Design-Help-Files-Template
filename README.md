@@ -52,11 +52,23 @@ MkDocs is an easy-to-use static HTML site generator that enables the creation of
 - _Updating Documentattion_
     - When editing documentaation continue to use `mkdocs serve` to see a preview and `mkdocs gh-deploy` to publish your changes to your website.
  
+ 
+ ---
 
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ---
 <h6 align="center">Yvonne M. Beine FitzGerald |  https://theyvonne.com | hi[@]theyvonne.com</h6>
 
-<h6 align="center">Lasted Update: 10 July 2022 </h6> 
+<h6 align="center">Lasted Update: 17 July 2022 </h6> 
 
 
