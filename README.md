@@ -57,7 +57,7 @@ MkDocs is an easy-to-use static HTML site generator that enables the creation of
  
  <h2 align="center">Liscense</h2>
  
-The contents of this repository are available for use under the Creative Commons Attribution 4.0 [license](LISCENSE) You are free to adapt and share the work, but you must give appropriate credit, provide a link to the license, and indicate if changes were made.
+The contents of this repository are available for use under the Creative Commons Attribution 4.0 [license](LISCENSE.txt) You are free to adapt and share the work, but you must give appropriate credit, provide a link to the license, and indicate if changes were made.
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
