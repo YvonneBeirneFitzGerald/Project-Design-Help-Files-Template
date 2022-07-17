@@ -8,7 +8,7 @@
 <h6 align="center">— Daniele Procida</h6>
 
 ---
-<h2 align="center">Why Create Project Documentation?</h2>
+<h2 align="center">Why Create Project End User Documentation?</h2>
 
 Click to see a preview of this Template. 
 
