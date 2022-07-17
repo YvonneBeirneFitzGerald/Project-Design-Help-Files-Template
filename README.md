@@ -54,7 +54,7 @@ Developing excellent user documentation for a Project/Tool/App is streamlined us
 - _Ready To Publish and Create Documenttation Website_
     -  In the terminal, run `mkdocs gh-deploy` [(Additional Information from MkDocs)](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
     -  Visit the address to check out the results
-    -  Add links in your Tool/App to link to the documenatation
+    -  Add links in your Project to link to the documenatation
 
  
 - _Updating Documentattion_
