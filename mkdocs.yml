@@ -1,4 +1,4 @@
-site_name: Template For Project End User Documentation 
+site_name: Project Design - Help Files Template
 nav:
     - Home: index.md
     - Help:

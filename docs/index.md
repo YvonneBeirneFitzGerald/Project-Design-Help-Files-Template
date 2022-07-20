@@ -1,4 +1,4 @@
-<h1 align="center">Project User Documenation Template</h1>
+<h1 align="center">Project Design: Help Files Template</h1>
 
 ---
 This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Project does Why it is an awesome project, and links to help documentation such as [Getting Started](Template - Getting Started.md), [How To](Template - How To.md), and [Reference Guide](Template - Reference Guide.md) Pages.
