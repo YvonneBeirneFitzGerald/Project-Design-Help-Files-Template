@@ -15,7 +15,7 @@
 Creating amazing user documentation for a Project is critical to the project's success.   With good user documentation, a tool becomes easier to use, increases the chance of mass adaption and citation, reduces the support burden for the developer, creates raving fans, and increases the professional feel of the project.  All these benefits can lead to increase funding and opportunities for the developers and happy users.  Good user documentation also leads to better code that is easier to maintain.  Unfortunately, user documentation is one part of a project that many developers skip or ignore, leaving their users to struggle to implement the new Tool/App completely—creating lost opportunities for both the end user and the developers.
 
 
-Developing excellent user documentation for a Project/Tool/App is streamlined using this predefined Template.   This Template walks one through the process of creating fantastic user documentation one page at a time.  The pages in the Template cover a specific topic of user documentation, formating options, notes, and points to ponder.  The Template then quickly converts to a website using MkDocs.  Or you can use this Template as guidance for your own approach.  Not every page or suggestion needs to be implemented, it is highly enccourage that a Getting Started, How To Guide and Reference Guide pages be inclued.
+Developing excellent user documentation for a Project/Tool/App is streamlined using this predefined Template. This Template walks one through the process of creating fantastic user documentation one page at a time. The pages in the Template cover a specific topic of user documentation, formating options, notes, and points to ponder. The Template then quickly converts to a website using MkDocs. Or you can use this Template as guidance for your own approach. Not every page or suggestion needs to be implemented; it is highly encouraged that Getting Started, How To Guide, and Reference Guide pages are included.
 
 ---
 <h2 align="center">Template Repository In GitHub</h2>
@@ -42,22 +42,22 @@ GitHub enables defining a repository as a template.  This feature allows users t
 
 
 - _Go to your computer's command line_
-   - Clone the new repository localy.  [Additional info from GitHub on how to do.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
+   - Clone the new repository locally.  [Additional info from GitHub on how to do it.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository)
    - Goto to the root of the template on your computer
    - Install MkDoc following their [Instructions](https://www.mkdocs.org/#installation)
-   - To see a preview of your documents run `mkdocs serve` in the terminal at where the files are located.
-   - Customize this template by editing the files in the `docs/` folder to meeet your Tool/App needs
+   - To see a preview of your documents run `mkdocs serve` in the terminal where the files are located.
+   - Customize this template by editing the files in the `docs/` folder to meet your Project needs
    - Adjust the navigation by editing the  `mkdocs.yml` file found in the root folder of the template
    - To preview the changes in your document run `mkdocs build` and then `mkdocs serve` in the terminal
 
  
-- _Ready To Publish and Create Documenttation Website_
+- _Ready To Publish and Create Documentation Website_
     -  In the terminal, run `mkdocs gh-deploy` [(Additional Information from MkDocs)](https://www.mkdocs.org/user-guide/deploying-your-docs/), it will return the web address of your new site.
     -  Visit the address to check out the results
-    -  Add links in your Project to link to the documenatation
+    -  Add links in your Project to link to the documentation
 
  
-- _Updating Documentattion_
+- _Updating Documentation_
     - When editing documentaation continue to use `mkdocs serve` to see a preview and `mkdocs gh-deploy` to publish your changes to your website.
  
  
