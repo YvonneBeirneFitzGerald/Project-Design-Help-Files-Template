@@ -10,7 +10,7 @@
 ---
 <h2 align="center">Why Create Project End User Documentation?</h2>
 
-[Click to see a preview of this Template](https://theyvonne.io/Project-End-User-Documentation-Template/)
+[Click to see a preview of this Template](https://YvonneBeirneFitzGerald.github.io/Project-Design-Help-Files-Template/)
 
 Creating amazing user documentation for a Project is critical to the project's success.   With good user documentation, a tool becomes easier to use, increases the chance of mass adaption and citation, reduces the support burden for the developer, creates raving fans, and increases the professional feel of the project.  All these benefits can lead to increase funding and opportunities for the developers and happy users.  Good user documentation also leads to better code that is easier to maintain.  Unfortunately, user documentation is one part of a project that many developers skip or ignore, leaving their users to struggle to implement the new Tool/App completely—creating lost opportunities for both the end user and the developers.
 
