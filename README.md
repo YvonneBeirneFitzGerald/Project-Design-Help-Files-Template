@@ -17,10 +17,10 @@ Creating amazing user documentation for a Project is critical to the project's s
 
 Developing excellent user documentation for a Project/Tool/App is streamlined using this predefined Template.   This Template walks one through the process of creating fantastic user documentation one page at a time.  The pages in the Template cover a specific topic of user documentation, formating options, notes, and points to ponder.  The Template then quickly converts to a website using MkDocs.  Or you can use this Template as guidance for your own approach.  Not every page or suggestion needs to be implemented, it is highly enccourage that a Getting Started, How To Guide and Reference Guide pages be inclued.
 
+---
+<h2 align="center">Template Repository In GitHub</h2>
 
-
-
-
+GitHub enables defining a repository as a template.  This feature allows users to create new repositories with the same directory structure, branches, and files.  Template repositories enable a standard format for projects within a group or organization or define a typical setup for your work. 
 
 
 ---
