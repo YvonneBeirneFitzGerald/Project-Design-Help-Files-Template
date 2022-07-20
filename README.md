@@ -85,7 +85,7 @@ This Template is influenced/inspired by [The Documentation and Usability course]
 
 
 - [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/)
-- [How to Createe A Document Website with MkDocs](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
+- [How to Create A Document Website with MkDocs](https://medium.com/omics-diary/how-to-create-a-documentation-website-with-mkdocs-bb2b73d4dde7)  
 - [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses)
 - [MkDocs.org](https://www.mkdocs.org/)
 
