@@ -8,8 +8,8 @@
 - Options:
     - All updates on one page or 
     - Single page for each update linked back to this page
-    - If doing multiple pages for each update - do you also want to show this in the navigation page - mkdocs.yml found in the root directory. 
-        - see the about page template - team section for an example how to add the information into the navigation and keeping everything on one page
+    - If doing multiple pages for each update — do you also want to show this in the navigation page — mkdocs.yml found in the root directory. 
+        - See the about page template — team section for an example how to add the information into the navigation and keeping everything on one page.
  
 
 ---

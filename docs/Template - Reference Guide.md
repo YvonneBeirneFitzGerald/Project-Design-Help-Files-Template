@@ -8,12 +8,12 @@
 - Is searchable or at least visually easily able to be scanned
 - All items are described in clear language, no-jargon language
 - Options and defaults are explained and linked to more information where appropriate
-- Think of as a dictionary/Cookbook for Prooject
+- Think of as a dictionary/Cookbook for Project
 - Meant to be easily searchable not to be read front to back
 - Try to make terms searchable
 - Try to make it easy to scan
 - Is every single thing covered?
-	-  Terms
+	-  Terms  
 	-  Functions
 	-  Arguments
 	-  Parameters
@@ -25,19 +25,19 @@
 	- tells how relates to other items link to that item when possible
 	- what are the inputs and when are these inputs needed
 	- what are the defaults
-	- show usage in context I.e. show the code
+	- show usage in context i.e., show the code
 	- avoid jargon
 - Consistent Entry Format
 	- Consistency is key
 	- All entries in the reference guide should have the same info in, the same order
 	- Note: Where the package is ending up might define the format 
 - Data Formats Defined
-	- Prooject should use data formats that are common
+	- Project should use data formats that are common
 	- If using non-standard data formats then the document needs to explain the specific requirements 
 		- Include files for positive/negative/example
 		- Have a tool that the end-user can convert the standard format into your format, even better have this be part of the Project
 	- Good Example:
-		- [GSEA has great descriptions of their data formats](https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideTEXT.htm#_Loading_Data) with examples of what the data formats look like
+		- [GSEA has great descriptions of their data formats](https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideTEXT.htm#_Loading_Data) with examples of what the data formats look like.
 
 ---
 
@@ -49,7 +49,7 @@
   - Any additional datasets or items included in the package are documented
   - Any input file formats are described (example file format included is ideal)
   - Any output file formats are described
-  - If help is command line package then make sure what command needs to be used ie --help
+  - If help is command line package then make sure what command needs to be used i.e. --help
 
 ----
 

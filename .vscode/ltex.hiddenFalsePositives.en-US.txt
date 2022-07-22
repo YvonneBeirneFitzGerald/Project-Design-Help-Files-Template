@@ -1,0 +1,1 @@
+{"rule":"SENTENCE_FRAGMENT","sentence":"^\\QWhen project is done this mighht be removed from the naviaation (yml) file\\E$"}
