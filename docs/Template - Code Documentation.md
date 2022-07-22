@@ -14,8 +14,8 @@ _Checklist For This Section:_
 ---
 
 ## General
-- Do you want to share source code
-- Do you want to say what langauge was useed in the projeect's creation
+- Do you want to share the source code
+- Do you want to say what language was used in the project's creation
 
 
 ---
@@ -23,7 +23,7 @@ _Checklist For This Section:_
 
 ## Link To Code
 
-- Add link to Github Rep
+- Add a link to Github Repoo
 
 ---
 
@@ -37,13 +37,13 @@ _Checklist For This Section:_
 
 ## Feedback
 
-- Link to feedback page
+- Link to a feedback page
 
 ---
 
-## Liscence
+## License
 
-- How is code liscenced
+- How is code licensed
 
 
 
