@@ -2,15 +2,15 @@
 
 
 ###### _Checklist For This Section:_  
-- Use this page to give credit and provide information
-    - Information about the team who created
-    - Who is Maintianing
-    - Who is Contributing
-    - WHo is Funding
-    - Pricing
-    - Style Guide/Branding info
-    - Where to place credits
-    - Other Projects by the team for marketing purpose
+- Use this page to give credit and provide information.
+- Information about the team who created
+- Who is Maintaining
+- Who is Contributing
+- Who is Funding
+- Pricing
+- Style Guide/Branding info
+- Where to place credits
+- Other Projects by the team for marketing purposes
 ---
 
 ### Tool/App
@@ -28,7 +28,7 @@
     - Picture
     - Bio
     - Contact Info
-- ##### Contributros
+- ##### Contributors
     - Names
     - Picture
     - Bio
@@ -43,7 +43,7 @@
 ### Acknowledgements
 - Who do you need to acknowledge and thank
 - Any grant support
-- Any liscence acknowlegements
+- Any license acknowledgments
 - Any Sponsors
 - Mom, Dad, Spouse, Kids, Testers, Labmates, Coffee Shop, etc
 
@@ -53,7 +53,7 @@
 - Other people
 
 ### Price
-- Free?, Freeium?, Purchase? Subscription, Single Purchasee, Upgrades
+- Free?, Freemium? Purchase? Subscription, Single Purchase, Upgrades
 - If free is this forever
 
 ### Style Guide (Brand Book)
