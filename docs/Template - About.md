@@ -40,7 +40,7 @@
     - Contact Info
 
 
-### Acknowledgements
+### Acknowledgments
 - Who do you need to acknowledge and thank
 - Any grant support
 - Any license acknowledgments
@@ -48,7 +48,7 @@
 - Mom, Dad, Spouse, Kids, Testers, Labmates, Coffee Shop, etc
 
 ### Funding Info
-- What funding do you neeed to disclose
+- What funding do you need to disclose
 - How about grants
 - Other people
 
@@ -58,15 +58,15 @@
 
 ### Style Guide (Brand Book)
 - [Style Guide / Brand Book](Template - Style Guide.md)
-- A Style Guide also can be known as a brand book is something useful for the creators to establish prior to working on a project
-- This may be something that is not shared with the end user or maybe some parts are shared 
+- A Style Guide, also can be known as a brand book, is something useful for the creators to establish before working on a project
+- This Guide may be something that is not shared with the end user, or maybe some parts are shared
 
 ### Any Other Credits
 
-### Liscence
+### License
 
-- How is code liscenced to users
-- Any acknowledgements to other liscene products/
+- How is code licensed to users
+- Any acknowledgments to other license products
 
 ### Other Apps/Tool by Creator
 
