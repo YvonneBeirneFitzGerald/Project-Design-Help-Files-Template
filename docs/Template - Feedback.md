@@ -15,7 +15,7 @@
 - [Google forms](https://www.google.com/forms/about/)
 - Contact Form In Tool/App
 - Contact Form On Website
-- Have a page in the user documentation or have the link in navigation go to a google form in yml
+- Have a page in the user documentation or have the link in navigation go to a Google form in yml
 - Direct users to file a such as [GitHub issue](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)
 - Slack channel
 - Discord channel
@@ -34,7 +34,7 @@
 
 ---
 ###### Potential Questions for a User Feedback Fork
-- Select a tool to contact your users (i.e. google forms )
+- Select a tool to contact your users (i.e., google forms)
 - [Example Google Form](https://docs.google.com/forms/d/1erbaH2k8cra0A2GB6W9Da0tqJCT41ZPlCmHXpKRcMLk/edit?usp=sharing)
 
 
@@ -48,7 +48,7 @@
 	- Moderately relevant
 	- Very relevant
 	- Extremely relevant
-	- Other
+	- Other?
 
 - How easy was it for you to follow the getting started steps?
 	- Not at all easy
@@ -97,9 +97,9 @@ Summarized from [Usability Testing: How to Do It & Its Benefits for Business](h
 - Write a script to use during testing
 - Good Resources:
 	- [Steve Krug’s usability testing script template](http://sensible.com/downloads/test-script-web.pdf)
-	- [Gitlab’s advice about usability testing script](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/writing-usability-testing-script/)
-	- [Gitlab’s usability testing template script](https://docs.google.com/document/d/1_5Qu2JR9QE5LE6cK4eq9yJs-nXv2rlWWifcjacaiWdI/edit).
-- Pilot your test with Team/Friends/Colleagues
+	- [GitLab’s advice about usability testing script](https://about.gitlab.com/handbook/engineering/ux/ux-research-training/writing-usability-testing-script/)
+	- [GitLab’s usability testing template script](https://docs.google.com/document/d/1_5Qu2JR9QE5LE6cK4eq9yJs-nXv2rlWWifcjacaiWdI/edit).
+- Pilot your test with Team/Friends/Colleagues.
 
 ###### Step 2 - Prepare For The Testing Session
 - [Useful Checklist](http://sensible.com/downloads/checklists.pdf) 
@@ -115,8 +115,8 @@ Summarized from [Usability Testing: How to Do It & Its Benefits for Business](h
 - After all, the prep is done, and users are scheduled
 - Ask if they are ok with the session being recorded (if you would like that)
 - Never forget the point from Csontos: 
-	- 'Assure your participant that they shoulder no blame. Never let the participants helping you with their valuable feedback feel frustrated '
-
+	- 'Assure your participant that they shoulder no blame. Never let the participants helping you with their valuable feedback feel frustrated'.  
+	
 ###### Step 4 - Analyze & Report
 - Review your notes and recordings to look for patterns and insights 
 

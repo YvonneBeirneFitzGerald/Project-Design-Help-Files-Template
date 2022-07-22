@@ -9,15 +9,15 @@
 - Provides the user with the introductory concepts of the Project
 - Has clear steps for installation 
 - Dependencies are made clear
-- Directs the user to the [How-to Examples ](Template - How To.md)section
-- Added images and icons so those who familiar with a different language can still follow
+- Directs the user to the [How-to Examples ](Template — How To.md)section
+- Added images and icons so those who is a familiar with a different language can still follow
 - Added videos 
-- Code is presentated so that it can be copy and pasted
-- Shows how to get quick resutls
+- Code is presented so that it can be copy and pasted
+- Shows how to get quick results
 - List of system requirements listed 
-- [Confirm inclusivity in selections](Template - Accessibility Information.md)
-- Confirm consitently using sytle guidelines
-- [Accessiblity Usage Implemented](Template - Accessibility Information.md)
+- [Confirm inclusivity in selections](Template — Accessibility Information.md)
+- Confirm consistently using style guidelines
+- [Accessibility Usage Implemented](Template — Accessibility Information.md)
 - Tells How to
 	  Install Tools and Dependencies
 	  Run basic analysis with the Project
@@ -50,7 +50,7 @@ We'll need to run this command:
 SOME BASH COMMAND
 ```
 
-Run this command and see if it installed correctly. If it did you should see {such and such output -- screenshot might be nice here}.
+Run this command and see if it installed correctly. If it did, you should see {such and such output -- screenshot might be nice here}.
 
 ```
 SOME BASH COMMAND TO TEST IF IT INSTALLED
@@ -58,7 +58,7 @@ SOME BASH COMMAND TO TEST IF IT INSTALLED
 
 If you did not get {such and such} response you may need to {do this other thing}.
 
-Add Screenshot of reassurance]
+Add Screenshot of reassurance!
 
 
 
@@ -75,7 +75,7 @@ Add Screenshot of reassurance]
 
 
 ## Quick Tutorial
-- Show something simple that enduser interested in using
+- Show something simple that end user interested in using
 
 ```
 A COMMAND TO GET EXAMPLE DATA
@@ -96,13 +96,13 @@ Show some really cool output result
 
 
 ## Codebook - How-to Examples 
-Link to a how to page that takes End Useer to next step
+Link to a how to page that takes End User to next step
 - [How to Page Within This Document](Template%20-%20How%20To.md)
 - Nice Example: [Qiime2 Getting Started](https://docs.qiime2.org/2022.2/getting-started/)
 
 
-## Accessiblity Reference
-- [Acccessiblity Reference](Template - Accessibility Information.md)
+## Accessibility 
+- [Accessibility Reference](Template — Accessibility Information.md)
 
 
 ---

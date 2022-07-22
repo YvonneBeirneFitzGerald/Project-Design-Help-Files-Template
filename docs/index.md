@@ -1,7 +1,7 @@
 <h1 align="center">Project Design: Help Files Template</h1>
 
 ---
-This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Project does Why it is an awesome project, and links to help documentation such as [Getting Started](Template - Getting Started.md), [How To](Template - How To.md), and [Reference Guide](Template - Reference Guide.md) Pages.
+This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Project does Why it is an awesome project, and links to help documentation such as [Getting Started](Template — Getting Started.md), [How To](Template — How To.md), and [Reference Guide](Template - Reference Guide.md) Pages.
 
 This document is a template git repo that will allow for customization for your own Project End User Documentation.  This concept is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/), which is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).
 
@@ -14,13 +14,13 @@ This document is a template git repo that will allow for customization for your 
 - The “why” of this Project is obvious on the main page
 - The end user will be able to know from the Why if they need/ want your Tool/App
 - Says what need the Project fulfills
-- Indicates what problem Projecct solves
+- Indicates what problem Project solves
 - Who is your Project for
-- Tagline of Project purpose brief [Use this as a quide](https://theYvonne.com/blog/secret-to-success-in-8-words)
+- Tagline of Project purpose brief [Use this as a guide](https://theYvonne.com/blog/secret-to-success-in-8-words)
 - Summary of Project purpose brief
 - Avoid jargon
 - Example of Good Why  
-		- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (e.g. phenotypes).  
+		- Gene Set Enrichment Analysis (GSEA) is a computational method that determines whether and a priori-defined set of genes shows statistically significant, concordant differences between two biological states (i.e., phenotypes).  
 		- Salmon is a tool for wicked-fast transcript quantification from RNA-seq data. It requires a set of target transcripts (either from a reference or de-novo assembly) to quantify.  
 
 ---
@@ -33,7 +33,7 @@ This document is a template git repo that will allow for customization for your 
 
 
 ## Understanding Your User Community
-Understaning your User Community allows you to understand and meet their needs
+Understanding your User Community allows you to understand and meet their needs
 
 - Write down what you know (or think you know) 
 - Identify any knowledge gaps you might have about your user community
@@ -44,13 +44,13 @@ Understaning your User Community allows you to understand and meet their needs
 ---
 
 ## Using The Project
-- [Getting Started Guide](Template - Getting Started.md)
-- [How To Reference](Template - How To.md)
-- [Reference Guide](Template - Reference Guide.md)
-- [FAQ](Template - FAQ.md)
-- [Acessibility Information](Template - Accessibility Information.md)
-- [Release Note](Template - Release Notes.md)
-- [Feedback](Template - Feedback.md) 
+- [Getting Started Guide](Template — Getting Started.md)
+- [How To Reference](Template — How To.md)
+- [Reference Guide](Template — Reference Guide.md)
+- [FAQ](Template — FAQ.md)
+- [Accessibility Information](Template — Accessibility Information.md)
+- [Release Note](Template — Release Notes.md)
+- [Feedback](Template — Feedback.md) 
     - note could also link directly to feedback form
 
 

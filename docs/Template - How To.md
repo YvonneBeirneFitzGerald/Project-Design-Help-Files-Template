@@ -18,7 +18,7 @@
 - Shows what additional analysis might look like
 - Create examples like one would recipes in a cookbook
 - Used to show off best use cases for your tool
-- Contains examples of what is most useful to the enduser
+- Contains examples of what is most useful to the end user
 - Create the most needed examples first
 
 
@@ -26,7 +26,7 @@
 ---
 
 ##### Every Step Defined
-- Every step of the process should be given, don't overloook the basic
+- Every step of the process should be given, don't overlook the basic
 - Give the exact code needed especially for command-line tools
 - Screenshot or video tutorial when the Project is a GUI
 
@@ -42,7 +42,7 @@
 - Don't assume end-users understand conventions explain/define them
 - Should model best practices
 - Be consistence with Coding Style and Conventions
-- Try to limiting needing other packages and dependencies
+- Try to limit needing other packages and dependencies
 	- In a package is required, evaluate if it should automatically install
 - Review document at the level of a beginner
 - Getting Started is for new users
@@ -54,14 +54,14 @@
 
 ##### Good Resources:
   - Tips On Reproducible Code:  
-    - [How to Write a Reproducible Example - Hadley Wickham](https://gist.github.com/hadley/270442#how-to-write-a-reproducible-example)  
+    - [How to Write a Reproducible Example — Hadley Wickham](https://gist.github.com/hadley/270442#how-to-write-a-reproducible-example)  
     - [Making your code reproducible](https://methodsblog.com/2017/12/06/making-your-code-reproducible/)  
     - [How to Make a Great R Reproducible Example](https://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example)  
 
 
    - Good Examples How-To Pages:   
     - [DESeq2 has excellent vignettes](http://www.bioconductor.org/packages/release/bioc/vignettes/DESeq2/inst/doc/DESeq2.html) Love, Huber, and Anders  
-    - [QIIME2 also has an extensive set of examples](https://docs.qiime2.org/2021.2/tutorials/pd-mice/) Bolyen et al.  
+    - [QIIME2 also has an extensive set of examples](https://docs.qiime2.org/2021.2/tutorials/pd-mice/) Boleyn et al.  
     - [Our Bioconductor specific how-to example templates](https://jhudatascience.org/template-documentation/bioconductor_guides/bioconductor_vignette_template.Rmd).  
     - [Bioconductor’s own vignette guidance](https://www.bioconductor.org/developers/package-guidelines/#Vignettes)
     - [Guidance on writing RMarkdown Vignettes](https://bioconductor.org/packages/devel/bioc/vignettes/BiocStyle/inst/doc/AuthoringRmdVignettes.html) by Andrzej Oleś and Morgan 

@@ -62,16 +62,16 @@
 
 ---
 
-## Cheatsheet ideas:
+## Cheat Sheet ideas:
 
-For inspiration and examples of nice cheatsheets, take a look through [RStudio's cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+For inspiration and examples of nice cheat sheets, take a look through [RStudio's cheat sheets](https://www.rstudio.com/resources/cheatsheets/)
 
-If you use Overleaf, there are [template cheatsheets you can use here](https://www.overleaf.com/gallery/tagged/cheat-sheet).
+If you use Overleaf, there are [template cheat sheets you can use here](https://www.overleaf.com/gallery/tagged/cheat-sheet).
 
 ---
 
-## Accessiblity 
-- [Acccessiblity](Template - Accessibility Information.md)
+## Accessibility 
+- [Accessibility](Template — Accessibility Information.md)
 
 ---
 

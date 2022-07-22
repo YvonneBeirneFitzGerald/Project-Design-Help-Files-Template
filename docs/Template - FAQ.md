@@ -9,9 +9,9 @@
 - To improve organization, use headers, and group similar questions
 - If adding FAQ focus on useful features, what makes Project Cool, User Questions
 	- To improve organization, use headers, and group similar questions
-- Items to possible include
+- Items to possibly include
 	- FAQ
-	- Cheatsheets
+	- Cheat Sheets
 	- Videos
 	- Forum
 	- Knowledge Base
@@ -28,22 +28,22 @@
 - Group Questions and Topics
 - Are they frequently asked questions or just something you want to highlight
 - Use as a last resources
-- Use the language of your end-user when writing - avoid jargon
+- Use the language of your end-user when writing — avoid jargon
 - Use visuals when possible
 - Included the ability to search
 - Keep it focused
 - Do not use it as a dumping ground for content you don't know where to place
  
 
-###### Cheatsheets
-- Cheatsheets should be added to Getting Started and Reference Guide
-- If Project has items that are handy but tough to keep track of, a cheatsheet may be helpful
-- Cheatsheets are a short reference guide 1 - 2 pages that looks pleasing
+###### Cheat Sheets
+- Cheat Sheet should be added to Getting Started and Reference Guide
+- If Project has items that are handy but tough to keep track of, a cheat sheet may be helpful
+- Cheat Sheets are a short reference guide 1 – 2 pages that looks pleasing
 - Highlights the most commonly used/most helpful items
 - Good Resources:
-	- RStudio’s [Cheatsheets Example](https://www.rstudio.com/resources/cheatsheets/) 
-	- Overleaf [Template Cheatsheets](https://www.overleaf.com/gallery/tagged/cheat-sheet)
-	- Figma [Template Cheatsheets](https://www.figma.com/community/search?model_type=hub_files&q=cheat%20sheets&fuid=989216865006175239)
+	- RStudio’s [Cheat Sheets Example](https://www.rstudio.com/resources/cheatsheets/) 
+	- Overleaf [Template Cheat Sheets](https://www.overleaf.com/gallery/tagged/cheat-sheet)
+	- Figma [Template Cheat Sheets](https://www.figma.com/community/search?model_type=hub_files&q=cheat%20sheets&fuid=989216865006175239)
 
 
 ###### Videos
@@ -72,7 +72,7 @@
 - Forums are primarily helpful for Projects with a significant user base or having trouble keeping up with inquires
 - Allows advanced users to help answer questions of new users 
 - Make this Knowledge Base searchable 
-- Can host on your own or use a slack channel or discourse or other options
+- Can host on your own or use a Slack channel or discourse or other options
 - Good Resources:
 	- [Knowledge Base Options](https://herothemes.com/blog/best-knowledge-base-software/) 
 	- [Building an Online Community](https://geekflare.com/online-community-software/)
@@ -80,6 +80,7 @@
 
 
 ## Accessibility
+
 - [Accessibility](Template - Accessibility Information.md)
 
 ---

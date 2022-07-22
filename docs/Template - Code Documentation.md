@@ -23,7 +23,7 @@ _Checklist For This Section:_
 
 ## Link To Code
 
-- Add a link to Github Repoo
+- Add a link to GitHub Repo
 
 ---
 

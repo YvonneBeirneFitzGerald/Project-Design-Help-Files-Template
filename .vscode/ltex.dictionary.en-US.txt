@@ -2,3 +2,13 @@ yml
 Lettterspacing
 MkDocs
 documention
+RStudio
+Bioconductor
+runnable
+Anders
+Oleś
+Krug
+WCAG
+ITCR
+priori-defined
+de-novo

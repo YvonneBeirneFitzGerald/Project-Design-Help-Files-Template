@@ -14,9 +14,9 @@
 - Review [W3C Web For All](https://www.w3.org/TR/)
 
 ###### Diversity, Equity, and Inclusion (DEI) 
-- [Urban Institute - Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
-- [Urban Institute - The Racial Equality in Data Visualization Checklist](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-checklist.pdf)  
-- [Tableau - Do No Harm](https://www.tableau.com/foundation/data-equity/do-no-harm)
+- [Urban Institute — Do No Harm Guide: Applying Equity Awareness in Data Visualization](https://www.urban.org/research/publication/do-no-harm-guide-applying-equity-awareness-data-visualization)
+- [Urban Institute — The Racial Equality in Data Visualization Checklist](https://www.urban.org/sites/default/files/2021/06/08/do-no-harm-guide-checklist.pdf)  
+- [Tableau — Do No Harm](https://www.tableau.com/foundation/data-equity/do-no-harm)
 
 ---
 
@@ -24,7 +24,7 @@
 ##### Things To Consider
 
 - Ensure Project can be used by all, based on technology guidelines
-- Ensure Project does not contain bias or provide biased  results
+- Ensure Project does not contain bias or provide biased results
 
 
 

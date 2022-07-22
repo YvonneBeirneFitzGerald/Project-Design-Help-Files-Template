@@ -1,1 +1,3 @@
 {"rule":"SENTENCE_FRAGMENT","sentence":"^\\QWhen project is done this mighht be removed from the naviaation (yml) file\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QAfter all, the prep is done, and users are scheduled\nAsk if they are ok with the session being recorded (if you would like that)\nNever forget the point from Csontos:\n'Assure your participant that they shoulder no blame.\\E$"}
+{"rule":"PHRASE_REPETITION","sentence":"^\\QAdditional Resources\nHow to run moderated usability testing\nUsability Testing 101\nKrug Downloadable Usability Resources\nCase Study \nBook Rocket Surgery Made Easy by Krug (https://www.amazon.com/Rocket-Surgery-Made-Easy-Yourself-ebook/dp/B002UXRGNO)\\E$"}
