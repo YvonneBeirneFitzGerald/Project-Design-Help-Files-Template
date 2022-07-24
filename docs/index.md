@@ -1,9 +1,9 @@
 <h1 align="center">Project Design: Help Files Template</h1>
 
 ---
-This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Project does Why it is an awesome project, and links to help documentation such as [Getting Started](Template — Getting Started.md), [How To](Template — How To.md), and [Reference Guide](Template - Reference Guide.md) Pages.
+This page is the first page for your end-users.  It is similar to a landing page.  Use it to provide information on what your Project does Why it is an awesome project, and links to help documentation such as [Getting Started](Template - Getting Started.md), [How To](Template - How To.md), and [Reference Guide](Template - Reference Guide.md) Pages.
 
-This document is a template git repo that will allow for customization for your own Project End User Documentation.  This concept is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/), which is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).
+This document is a template GitHub repo which customization for your own Project End User Documentation.  This concept is influenced/inspired by [The Documentation and Usability course](https://jhudatascience.org/Documentation_and_Usability/), which is a part of [The Informatics Technology for Cancer Research (ITCR) Education Resource training series](https://www.itcrtraining.org/courses).
 
 
 ---
@@ -44,13 +44,13 @@ Understanding your User Community allows you to understand and meet their needs
 ---
 
 ## Using The Project
-- [Getting Started Guide](Template — Getting Started.md)
-- [How To Reference](Template — How To.md)
-- [Reference Guide](Template — Reference Guide.md)
-- [FAQ](Template — FAQ.md)
-- [Accessibility Information](Template — Accessibility Information.md)
-- [Release Note](Template — Release Notes.md)
-- [Feedback](Template — Feedback.md) 
+- [Getting Started Guide](Template - Getting Started.md)
+- [How To Reference](Template - How To.md)
+- [Reference Guide](Template - Reference Guide.md)
+- [FAQ](Template - FAQ.md)
+- [Accessibility Information](Template - Accessibility Information.md)
+- [Release Note](Template - Release Notes.md)
+- [Feedback](Template - Feedback.md) 
     - note could also link directly to feedback form
 
 

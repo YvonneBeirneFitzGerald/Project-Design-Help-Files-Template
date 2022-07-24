@@ -11,7 +11,7 @@
   - Links to helpful background knowledge resources are included
 - Paste-able or directly runnable code is given and can be run as-is
 - Demonstrates a _reproducible_ example
-  - An example dataset needed is provided and introduced
+  - An example dataset that needed is provided and introduced
   - No additional packages & software is required beyond what is listed on the [Getting Started](Template - Getting Started.md) Page
 - Demonstrates step-by-step the most common users for your Project
 - Example code write with teaching in mind
@@ -33,21 +33,22 @@
 ##### Share The Data
 - If data is needed to run the example, provide it
 - If the data needs to be in a certain format make sure this format is listed and defined 
-   - Add a converting tool whenever possible
+   - Add a data format converting tool whenever possible
 
 ##### Example Code Goal Illustrates How To Use The Project
 
-- Example Code is written to prioritize clarity over brevity
-- Should have comments
+- Example Code: 
+    - Prioritize clarity over brevity
+    - Should have comments
 - Don't assume end-users understand conventions explain/define them
 - Should model best practices
 - Be consistence with Coding Style and Conventions
 - Try to limit needing other packages and dependencies
-	- In a package is required, evaluate if it should automatically install
+	- For a required package, evaluate if it should automatically install
 - Review document at the level of a beginner
-- Getting Started is for new users
 - How To Sections are geared toward intermediate user who want to know more
-- Can move someone from moderate interest to raving fan
+    - Getting Started is for new users
+- Good How To Documentation can move someone from moderate interest to raving fan
 - Create examples like one would recipes in a cookbook
 - Used to show off best use cases for the Project
 

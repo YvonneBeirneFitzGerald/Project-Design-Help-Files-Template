@@ -9,15 +9,16 @@
 - Provides the user with the introductory concepts of the Project
 - Has clear steps for installation 
 - Dependencies are made clear
-- Directs the user to the [How-to Examples ](Template — How To.md)section
+- Directs the user to the [How-to Examples ](Template - How To.md)section
 - Added images and icons so those who is a familiar with a different language can still follow
 - Added videos 
 - Code is presented so that it can be copy and pasted
 - Shows how to get quick results
 - List of system requirements listed 
-- [Confirm inclusivity in selections](Template — Accessibility Information.md)
+- [Confirm inclusivity in the project's approach](Template - Accessibility Information.md)
 - Confirm consistently using style guidelines
-- [Accessibility Usage Implemented](Template — Accessibility Information.md)
+- [Accessibility Usage Implemented](Template - Accessibility Information.md)
+- Getting Started is for new users
 - Tells How to
 	  Install Tools and Dependencies
 	  Run basic analysis with the Project
@@ -95,14 +96,17 @@ Show some really cool output result
 ---
 
 
-## Codebook - How-to Examples 
-Link to a how to page that takes End User to next step
-- [How to Page Within This Document](Template%20-%20How%20To.md)
-- Nice Example: [Qiime2 Getting Started](https://docs.qiime2.org/2022.2/getting-started/)
+## Codebook - How-to Examples   
+
+Link to a how to page that takes End User to next step  
+- [Link For How To Template](Template - How To.md)  
+- Nice Example: 
+	- [Qiime2 Getting Started](https://docs.qiime2.org/2022.2/getting-started/)  
 
 
 ## Accessibility 
-- [Accessibility Reference](Template — Accessibility Information.md)
+
+- [Accessibility Reference](Template - Accessibility Information.md)
 
 
 ---
