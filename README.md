@@ -58,7 +58,7 @@ GitHub enables defining a repository as a template.  This feature allows users t
 
  
 - _Updating Documentation_
-    - When editing documentation continue to use `mkdocs serve` to see a preview and `mkdocs gh-deploy` to publish your changes to your website.
+    - When editing documentation, continue to use `mkdocs serve` to see a preview and `mkdocs gh-deploy` to publish your changes to your website.
  
  
  ---
