@@ -5,8 +5,8 @@
 ##### _Checklist For This Section:_  
 
 ###### Accessibility
-- Review How Project can work with someone with seeing difficulties  
-- Review How Project can work with someone with hearing challenges if using sound  
+- Review how Project can work with someone with seeing difficulties  
+- Review how Project can work with someone with hearing challenges if using sound  
 - Review [Google Accessibility Info](https://www.google.com/accessibility/)  
 - Review [Google Accessibility Info for Developers](https://www.google.com/accessibility/for-developers/)  
 - Review [Google Accessibility For Education](https://edu.google.com/intl/ALL_us/why-google/accessibility/)

@@ -4,11 +4,11 @@
 
 ###### _Checklist:_  
 
-- Is easy to find: clearly visible on the main page
-- Is searchable or at least visually easily able to be scanned
+- Is easy to find the Reference Guide clearly visible on the main page
+- Is the Reference Guide searchable or at least visually easily able to be scanned
 - All items are described in clear language, no-jargon language
 - Options and defaults are explained and linked to more information where appropriate
-- Think of as a dictionary/Cookbook for Project
+- Think of as a Dictionary/Cookbook for Project
 - Meant to be easily searchable not to be read front to back
 - Try to make terms searchable
 - Try to make it easy to scan
@@ -71,7 +71,8 @@ If you use Overleaf, there are [template cheat sheets you can use here](https://
 ---
 
 ## Accessibility 
-- [Accessibility](Template — Accessibility Information.md)
+
+- [Accessibility](Template - Accessibility Information.md)
 
 ---
 
@@ -80,7 +81,7 @@ If you use Overleaf, there are [template cheat sheets you can use here](https://
 - [GSEA has great descriptions of their data formats](https://www.gsea-msigdb.org/gsea/doc/GSEAUserGuideTEXT.htm#_Loading_Data) with examples of what the data formats
 - Bioconductor packages 
 	- have [specific guidance on these reference manuals](http://cran.fhcrc.org/doc/manuals/R-exts.html#Documenting-functions)
-	- typically look like this [https://bioconductor.org/packages/3.12/bioc/manuals/GenomicRanges/man/GenomicRanges.pdf](https://bioconductor.org/packages/3.12/bioc/manuals/GenomicRanges/man/GenomicRanges.pdf)
+	- [typically look like this](https://bioconductor.org/packages/3.12/bioc/manuals/GenomicRanges/man/GenomicRanges.pdf) or [this](https://bioconductor.org/packages/3.12/bioc/manuals/GenomicRanges/man/GenomicRanges.pdf)
 - Follow the advice from Hadley Wickham from the [R Packages book](https://r-pkgs.org/man.html) which includes using [roxygen2 package](https://cran.r-project.org/web/packages/roxygen2/vignettes/roxygen2.html) to automatically render those .Rd files!
 - _For Python package documentation:_ Follow the `docstrings` guidance and instructions [here](https://realpython.com/documenting-python-code/)
 

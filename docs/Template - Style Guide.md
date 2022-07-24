@@ -15,10 +15,10 @@
 ###### _Design Information about the Tool/App/Site_  
 
 ### Define Colors
-- [Consider adding palette info](https://coolors.co/)
+- Consider adding palette info [Colors.co is a useful to for generating palettes](https://coolors.co/)
    - <img
   src="/path/to/img.jpg"
-  alt="Add Palette Pic Here"
+  alt="Code Too Add Palette Pic Here"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
@@ -63,9 +63,7 @@
   - Review Project following inclusivity and accessibility guidelines 
   - Accessibility Usage included in the Getting Started Guide, Reference Guide or maybe a separate page on accessibility
   - Explain how this was done so other making a Project after you or maintaining the Project knows how this was done
-  - Good Resources:
-    - [Building For Everyone](https://design.google/library/building-for-everyone/#:~:text=On%20our%20diversity%20and%20inclusion,of%20the%20users%20we%20serve.%E2%80%9D)
-    - [Accessibility Google](https://www.google.com/accessibility/)
+  - See [Accessibility Template](Template - Accessibility Information.md)
 
 ### Confirm consistently using style guidelines  
   - Check the Project and User Document to ensure using Style Guide
@@ -78,7 +76,7 @@
   - Good Resource for MkDocs:
     - [Third Party Themes MkDocs](https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes)
     - [Build Your Own MkDocs Theme](https://www.mkdocs.org/dev-guide/themes/)
-    - [Customize MkDocs](https://www.mkdocs.org/user-guide/customizing-your-theme/)
+    - [Customize MkDocs](https://www.mkdocs.org/user-guide/customizing-your-theme/)    
     - [MkDocs.org](https://www.mkdocs.org/)
 
 

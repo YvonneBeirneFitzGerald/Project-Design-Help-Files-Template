@@ -7,7 +7,7 @@
 - Who is Maintaining
 - Who is Contributing
 - Who is Funding
-- Pricing
+- Pricing — if charging what is your pricing plan (note: pricing should be a separate page)
 - Style Guide/Branding info
 - Where to place credits
 - Other Projects by the team for marketing purposes

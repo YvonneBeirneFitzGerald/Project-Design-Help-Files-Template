@@ -29,7 +29,7 @@
 -   [GitHub action: urlchecker-action](https://github.com/marketplace/actions/urlchecker-action)
 -   [GitHub action: URL checker](https://github.com/marketplace/actions/url-checker)
 - [6 Tools to Find Broken Links on Your Website](https://www.outlookstudios.com/tools-to-find-broken-links-on-your-website/) 
-    - Like This Tool From Article Google Search Console includes a broken link report option for monitoring websites for content with broken links
+
 
 
 ---

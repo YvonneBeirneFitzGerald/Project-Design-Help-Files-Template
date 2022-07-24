@@ -9,7 +9,7 @@
     - All updates on one page or 
     - Single page for each update linked back to this page
     - If doing multiple pages for each update — do you also want to show this in the navigation page — mkdocs.yml found in the root directory. 
-        - See the about page template — team section for an example how to add the information into the navigation and keeping everything on one page.
+       - Check style guide for how to have items from the page in navigation panel
  
 
 ---
@@ -24,6 +24,7 @@
 
 **No Longer Broken**   
 - Add Bug Fixes Here  
+- Smashed a few bugs
 
 --- 
 
@@ -37,6 +38,7 @@
 
 **No Longer Broken**     
 - Add Bug Fixes Here  
+- Smashed a few bugs
 
 
 

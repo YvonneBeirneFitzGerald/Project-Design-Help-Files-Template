@@ -13,7 +13,7 @@
 ###### Where
 
 - [Google forms](https://www.google.com/forms/about/)
-- Contact Form In Tool/App
+- Contact Form In Project
 - Contact Form On Website
 - Have a page in the user documentation or have the link in navigation go to a Google form in yml
 - Direct users to file a such as [GitHub issue](https://docs.github.com/en/github/managing-your-work-on-github/about-issues)
@@ -88,7 +88,7 @@
 ##### Steps For Conducting Usability Research
 Summarized from [Usability Testing: How to Do It & Its Benefits for Business](https://uxstudioteam.com/ux-blog/usability-testing/)
 
-###### Step 1 - Plan out your study
+###### Step 1 — Plan out your study
 - Define what you want to learn 
 - Define a plan and create a script
 - What are the key questions you have about Project
@@ -101,17 +101,17 @@ Summarized from [Usability Testing: How to Do It & Its Benefits for Business](h
 	- [GitLab’s usability testing template script](https://docs.google.com/document/d/1_5Qu2JR9QE5LE6cK4eq9yJs-nXv2rlWWifcjacaiWdI/edit).
 - Pilot your test with Team/Friends/Colleagues.
 
-###### Step 2 - Prepare For The Testing Session
+###### Step 2 — Prepare For The Testing Session
 - [Useful Checklist](http://sensible.com/downloads/checklists.pdf) 
 - [Useful Prompts](https://sensible.com/downloads/things-a-therapist-would-say.pdf) 
 
-######  Step 3 - Find user participants
+######  Step 3 — Find user participants
 - Set up a feedback form
-- Word of mouth ask around
+- Word of mouth — ask around
 - Advertising on Twitter, LinkedIn, or some other social media platform
 - [Calendly](https://calendly.com/) helpful tool for scheduling usability testing sessions
 
-###### Step 4 - Run the test!
+###### Step 4 — Run the test!
 - After all, the prep is done, and users are scheduled
 - Ask if they are ok with the session being recorded (if you would like that)
 - Never forget the point from Csontos: 
