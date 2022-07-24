@@ -96,7 +96,7 @@ _Add Links To Your Info_
 
 <center>Terms | Privacy Policy | Project </center>
 
-<center>Lasted Update: 17 July 2022 </center>
+<center>Lasted Update: 24 July 2022 </center>
 
 
 
